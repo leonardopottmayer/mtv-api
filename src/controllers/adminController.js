@@ -81,7 +81,7 @@ module.exports = {
       });
     }
 
-    await Phrase.findByIdAndRemove(req.params.phraseId, (error) => {
+    Phrase.findByIdAndRemove(req.params.phraseId, (error) => {
       if (!error) {
         return res.status(200).json({
           message: "Successfully deleted phrase!",
