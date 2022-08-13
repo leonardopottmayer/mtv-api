@@ -13,6 +13,15 @@ app.use(bodyParser.json());
 const userRoute = require("./routes/userRoutes");
 app.use("/user", userRoute);
 
+const authRoute = require("./routes/authRoutes");
+app.use("/auth", authRoute);
+
+const phraseRoute = require("./routes/phraseRoutes");
+app.use("/phrase", phraseRoute);
+
+const adminRoute = require("./routes/adminRoutes");
+app.use("/admin", adminRoute);
+
 let port = process.env.PORT;
 if (port == null || port == "") {
   port = 3000;
