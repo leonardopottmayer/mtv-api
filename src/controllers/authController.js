@@ -123,6 +123,12 @@ module.exports = {
       return res.status(404).json({ message: "User not found." });
     }
 
+    if (user.waitingForAuthorization == true) {
+      return res.stauts(401).json({
+        message: "This account is waiting for our admins approval!",
+      });
+    }
+
     const checkPassword = await bcrypt.compare(password, user.password);
 
     if (!checkPassword) {

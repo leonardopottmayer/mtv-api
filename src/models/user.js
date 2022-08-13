@@ -21,6 +21,10 @@ const User = mongoose.model("User", {
     type: String,
     required: true,
   },
+  waitingForAuthorization: {
+    type: Boolean,
+    default: true,
+  },
 });
 
 module.exports = User;
