@@ -88,7 +88,11 @@ module.exports = {
     try {
       const newUser = await user.save();
 
-      await createUserToken(newUser, req, res);
+      return res.status(200).json({
+        message:
+          "Your account was successfully created, and it's waiting for an admin approval!",
+      });
+      // await createUserToken(newUser, req, res);
     } catch (error) {
       console.log(error);
 
@@ -124,7 +128,7 @@ module.exports = {
     }
 
     if (user.waitingForAuthorization == true) {
-      return res.stauts(401).json({
+      return res.status(401).json({
         message: "This account is waiting for our admins approval!",
       });
     }
