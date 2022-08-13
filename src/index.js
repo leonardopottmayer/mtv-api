@@ -10,9 +10,6 @@ app.use(cors());
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(bodyParser.json());
 
-const userRoute = require("./routes/userRoutes");
-app.use("/user", userRoute);
-
 const authRoute = require("./routes/authRoutes");
 app.use("/auth", authRoute);
 
