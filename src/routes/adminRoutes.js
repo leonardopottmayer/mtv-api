@@ -13,5 +13,6 @@ router.get("/phrase", verifyToken, adminController.getAllPhrases);
 router.post("/phrase", verifyToken, adminController.registerNewPhrase);
 router.delete("/phrase/:phraseId", verifyToken, adminController.deletePhraseById);
 router.patch("/phrase", verifyToken, adminController.updatePhraseById)
+router.get("/user/:userId", verifyToken, adminController.getUserById);
 
 module.exports = router;

@@ -1,4 +1,5 @@
 const Phrase = require("../models/phrase");
+const User = require("../models/user");
 
 const validatePhraseData = require("../helpers/validate-phrase-data");
 const validateDocumentId = require("../helpers/validate-document-id");
@@ -131,6 +132,33 @@ module.exports = {
 
       return res.status(200).json({
         message: "Successfully updated document!",
+      });
+    } catch (error) {
+      return res.status(500).json({
+        message: "An error ocurred while processing your request!",
+      });
+    }
+  },
+
+  getUserById: async (req, res) => {
+    try {
+      let idValidationResult = await validateDocumentId(req.params.userId);
+
+      if (idValidationResult != "OK") {
+        return res.status(400).json({
+          message: idValidationResult,
+        });
+      }
+
+      const user = await User.findById(req.params.userId);
+
+      if (user) {
+        user.password = undefined;
+      }
+
+      return res.status(200).json({
+        message: "Successfully queried user!",
+        result: user,
       });
     } catch (error) {
       return res.status(500).json({
