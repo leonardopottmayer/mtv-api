@@ -171,6 +171,11 @@ module.exports = {
     try {
       const users = await User.find({ waitingForAuthorization: false });
 
+      for (let i = 0; i < users.length; i++) {
+        const us = users[i];
+        us.password = undefined;
+      }
+
       return res.status(200).json({
         message: "Successfully queried users!",
         result: users,
