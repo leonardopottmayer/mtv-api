@@ -166,4 +166,34 @@ module.exports = {
       });
     }
   },
+
+  getActiveUsers: async (req, res) => {
+    try {
+      const users = await User.find({ waitingForAuthorization: false });
+
+      return res.status(200).json({
+        message: "Successfully queried users!",
+        result: users,
+      });
+    } catch (error) {
+      return res.status(500).json({
+        message: "An error ocurred while processing your request!",
+      });
+    }
+  },
+
+  getWaitingUsers: async (req, res) => {
+    try {
+      const users = await User.find({ waitingForAuthorization: true });
+
+      return res.status(200).json({
+        message: "Successfully queried users!",
+        result: users,
+      });
+    } catch (error) {
+      return res.status(500).json({
+        message: "An error ocurred while processing your request!",
+      });
+    }
+  },
 };
