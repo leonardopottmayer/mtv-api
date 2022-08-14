@@ -150,15 +150,15 @@ module.exports = {
         });
       }
 
-      const user = await User.findById(req.params.userId);
+      const queryUser = await User.findById(req.params.userId);
 
-      if (user) {
-        user.password = undefined;
+      if (queryUser) {
+        queryUser.password = undefined;
       }
 
       return res.status(200).json({
         message: "Successfully queried user!",
-        result: user,
+        result: queryUser,
       });
     } catch (error) {
       return res.status(500).json({
