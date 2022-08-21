@@ -15,7 +15,6 @@ router.delete("/phrase/:phraseId", verifyToken, adminController.deletePhraseById
 router.patch("/phrase", verifyToken, adminController.updatePhraseById);
 router.get("/user/active", verifyToken, adminController.getActiveUsers);
 router.get("/user/waiting", verifyToken, adminController.getWaitingUsers);
-router.post("/user/:userId/approve", verifyToken, adminController.approveUser);
 router.post("/user/:userId/block", verifyToken, adminController.blockUser);
 router.post("/user/:userId/unlock", verifyToken, adminController.unlockUser);
 router.delete("/user/:userId", verifyToken, adminController.deleteUser);

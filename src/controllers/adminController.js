@@ -202,37 +202,6 @@ module.exports = {
     }
   },
 
-  approveUser: async (req, res) => {
-    const { userId } = req.params;
-
-    try {
-      let idValidationResult = await validateDocumentId(userId);
-
-      if (idValidationResult != "OK") {
-        return res.status(400).json({
-          message: idValidationResult,
-        });
-      }
-
-      await User.findOneAndUpdate(
-        { _id: userId },
-        {
-          $set: {
-            waitingForAuthorization: false,
-          },
-        }
-      );
-
-      return res.status(200).json({
-        message: "Successfully approved user!",
-      });
-    } catch (error) {
-      return res.status(500).json({
-        message: "An error ocurred while processing your request!",
-      });
-    }
-  },
-
   blockUser: async (req, res) => {
     const { userId } = req.params;
 
