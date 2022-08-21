@@ -17,6 +17,8 @@ router.get("/user/active", verifyToken, adminController.getActiveUsers);
 router.get("/user/waiting", verifyToken, adminController.getWaitingUsers);
 router.post("/user/:userId/approve", verifyToken, adminController.approveUser);
 router.post("/user/:userId/block", verifyToken, adminController.blockUser);
+router.post("/user/:userId/unlock", verifyToken, adminController.unlockUser);
+router.delete("/user/:userId", verifyToken, adminController.deleteUser);
 router.get("/user/:userId", verifyToken, adminController.getUserById);
 
 module.exports = router;

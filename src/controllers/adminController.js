@@ -263,4 +263,59 @@ module.exports = {
       });
     }
   },
+
+  unlockUser: async (req, res) => {
+    const { userId } = req.params;
+
+    try {
+      let idValidationResult = await validateDocumentId(userId);
+
+      if (idValidationResult != "OK") {
+        return res.status(400).json({
+          message: idValidationResult,
+        });
+      }
+
+      await User.findOneAndUpdate(
+        { _id: userId },
+        {
+          $set: {
+            waitingForAuthorization: false,
+          },
+        }
+      );
+
+      return res.status(200).json({
+        message: "Successfully unlocked user!",
+      });
+    } catch (error) {
+      return res.status(500).json({
+        message: "An error ocurred while processing your request!",
+      });
+    }
+  },
+
+  deleteUser: async (req, res) => {
+    const { userId } = req.params;
+
+    try {
+      let idValidationResult = await validateDocumentId(userId);
+
+      if (idValidationResult != "OK") {
+        return res.status(400).json({
+          message: idValidationResult,
+        });
+      }
+
+      await User.findByIdAndDelete({ _id: userId });
+
+      return res.status(200).json({
+        message: "Successfully deleted user!",
+      });
+    } catch (error) {
+      return res.status(500).json({
+        message: "An error ocurred while processing your request!",
+      });
+    }
+  },
 };
