@@ -1,0 +1,4005 @@
+{
+  "message": "Query completed successfully!",
+  "result": [
+    {
+      "_id": "62f719ff064a6a0ea0813c66",
+      "phrase": "Lembre-se: O passado está em sua cabeça, mas o futuro está em suas mãos.",
+      "author": "@Shelby7809",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-08-13T01:46:28.696Z",
+      "updatedAt": "2022-08-14T18:15:31.095Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "62f71a8074afa67cd23609d3",
+      "phrase": "Faça de você mesmo sua maior prioridade, isso não é egoísmo, é necessidade.",
+      "author": "@alex_sad777",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-08-13T03:27:57.183Z",
+      "updatedAt": "2022-08-13T03:27:57.183Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "62f71a9f74afa67cd23609d5",
+      "phrase": "Jamais desista daquilo que você mais deseja na vida. Evoluir leva tempo, mas vale a pena.",
+      "author": "@alex_sad777",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-08-13T03:27:57.183Z",
+      "updatedAt": "2022-08-13T03:27:57.183Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "62f71ab474afa67cd23609d7",
+      "phrase": "Fique longe de pessoas negativas, elas tem um problema para cada solução.",
+      "author": "Albert Einstein",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-08-13T03:27:57.183Z",
+      "updatedAt": "2022-08-13T03:27:57.183Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "62f71ac974afa67cd23609d9",
+      "phrase": "Correr riscos é melhor do que viver a vida inteira arrependido de não ter tentado.",
+      "author": "@Gabrieldasil152",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-08-13T03:27:57.183Z",
+      "updatedAt": "2022-08-13T03:27:57.183Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "62f71adb74afa67cd23609db",
+      "phrase": "Não é fazer pra ver se vai dar certo, é fazer até dar certo.",
+      "author": "@bandodosucesso",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-08-13T03:27:57.183Z",
+      "updatedAt": "2022-08-13T03:27:57.183Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "62f71aec74afa67cd23609dd",
+      "phrase": "Time tells truth.",
+      "author": "@theonlinediaries",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-08-13T03:27:57.183Z",
+      "updatedAt": "2022-08-13T03:27:57.183Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "62f71aff74afa67cd23609df",
+      "phrase": "Chorei quando não tinha sapatos, mas parei de chorar quando vi um homem sem pernas. A vida está cheia de bênçãos, em alguns momentos esquecemos de agradecer.",
+      "author": "William Shakespeare",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-08-13T03:27:57.183Z",
+      "updatedAt": "2022-08-13T03:27:57.183Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "62f71b0e74afa67cd23609e1",
+      "phrase": "Exige muito de ti e espera pouco dos outros. Assim, evitarás muitos aborrecimentos.",
+      "author": "@alex_sad777",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-08-13T03:27:57.183Z",
+      "updatedAt": "2022-08-13T03:27:57.183Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "62f71b1e74afa67cd23609e3",
+      "phrase": "Acredite em si próprio e chegará um dia em que os outros não terão outra escolha senão acreditar em você.",
+      "author": "@alex_sad777",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-08-13T03:27:57.183Z",
+      "updatedAt": "2022-08-13T03:27:57.183Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "62f71b3174afa67cd23609e5",
+      "phrase": "Uma pessoa que dorme sem esperar nenhuma mensagem, que ri sem nenhuma companhia, e que fica bonita pra si mesma, já entendeu muita coisa sobre a vida.",
+      "author": "@leaderchefe",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-08-13T03:27:57.183Z",
+      "updatedAt": "2022-08-13T03:27:57.183Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "62f71b4374afa67cd23609e7",
+      "phrase": "Cada erro é apenas uma oportunidade única de aprender.",
+      "author": "@Gabrieldasil152",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-08-13T03:27:57.183Z",
+      "updatedAt": "2022-08-13T03:27:57.183Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "62f71b5374afa67cd23609e9",
+      "phrase": "Feche os olhos e finja que é só um sonho ruim, é assim que eu faço.",
+      "author": "Capitão Jack Sparrow",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-08-13T03:27:57.183Z",
+      "updatedAt": "2022-08-13T03:27:57.183Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "62f71b8874afa67cd23609eb",
+      "phrase": "Valorize o que você tem hoje, porque a vida é como um livro, cada página uma história, não deixa para amanhã o que você pode fazer hoje, porque ao virar a página pode estar escrito 'fim'.",
+      "author": "@kauakkkkkkkjkj",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-08-13T03:27:57.183Z",
+      "updatedAt": "2022-08-13T03:27:57.183Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "62f71b9674afa67cd23609ed",
+      "phrase": "A prioridade da sua vida é cuidar de você e correr atrás dos seus sonhos, não de pessoas.",
+      "author": "@maria19075",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-08-13T03:27:57.183Z",
+      "updatedAt": "2022-08-13T03:34:50.353Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "62f71bea74afa67cd23609f1",
+      "phrase": "Se quer viver uma vida feliz, amarre-se a uma meta, não às pessoas nem às coisas.",
+      "author": "Albert Einstein",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-08-13T03:27:57.183Z",
+      "updatedAt": "2022-08-13T03:27:57.183Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "62f71c0774afa67cd23609f3",
+      "phrase": "Eu não temo nenhum homem. Se você respira oxigênio é um jogo justo.",
+      "author": "Conor McGregor",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-08-13T03:27:57.183Z",
+      "updatedAt": "2022-08-13T03:27:57.183Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "62f71c1974afa67cd23609f5",
+      "phrase": "Eles riem de mim porque eu sou diferente. Eu rio deles porque são todos iguais.",
+      "author": "Kurt Cobain",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-08-13T03:27:57.183Z",
+      "updatedAt": "2022-08-13T03:27:57.183Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "62f71c2874afa67cd23609f7",
+      "phrase": "Se você está atravessando o inferno, continue, por que iria parar no inferno?",
+      "author": "Winston Churchill",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-08-13T03:27:57.183Z",
+      "updatedAt": "2022-08-16T22:51:34.755Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "62f71c3b74afa67cd23609f9",
+      "phrase": "Nunca diga nunca, pois os limites são como os medos: sempre são apenas ilusão.",
+      "author": "Michael Jordan",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-08-13T03:27:57.183Z",
+      "updatedAt": "2022-08-13T03:27:57.183Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "62f71c4f74afa67cd23609fb",
+      "phrase": "Emotions change what we see.",
+      "author": "@inky_.girl_",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-08-13T03:27:57.183Z",
+      "updatedAt": "2022-08-13T03:27:57.183Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "62f71c6074afa67cd23609fd",
+      "phrase": "Para quê levar a vida tão a sério, se a vida é uma alucinante aventura da qual jamais sairemos vivos.",
+      "author": "Elbert Hubbard",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-08-13T03:27:57.183Z",
+      "updatedAt": "2022-08-13T03:27:57.183Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "62f71c7174afa67cd23609ff",
+      "phrase": "Better days are coming, be hopeful.",
+      "author": "@tribulation_words",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-08-13T03:27:57.183Z",
+      "updatedAt": "2022-08-13T03:27:57.183Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "62f71c7e74afa67cd2360a01",
+      "phrase": "Suicídio não tira a dor, só coloca naqueles que se importavam.",
+      "author": "@juro.kajajajaaja",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-08-13T03:27:57.183Z",
+      "updatedAt": "2022-08-13T03:27:57.183Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "62f71c8c74afa67cd2360a03",
+      "phrase": "Pessoas certas não existem, somos todos errados procurando alguém que aceite nossas imperfeições.",
+      "author": "-unknown",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-08-13T03:27:57.183Z",
+      "updatedAt": "2022-08-13T03:27:57.183Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "62f71c9a74afa67cd2360a05",
+      "phrase": "Os lobos não gritam, eles observam em silêncio.",
+      "author": "@Kauakkkkkkkjkj",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-08-13T03:27:57.183Z",
+      "updatedAt": "2022-08-13T03:27:57.183Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "62f71ca974afa67cd2360a07",
+      "phrase": "Um lobo calado, assusta mais do que um cachorro latindo.",
+      "author": "@Kauakkkkkkkjkj",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-08-13T03:27:57.183Z",
+      "updatedAt": "2022-08-13T03:27:57.183Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "62f71cb574afa67cd2360a09",
+      "phrase": "Make fear be afraid of you.",
+      "author": "-unknown",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-08-13T03:27:57.183Z",
+      "updatedAt": "2022-08-13T03:27:57.183Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "62f71cc274afa67cd2360a0b",
+      "phrase": "O primeiro passo rumo ao sucesso é dado quando você se recusa a ser um refém do ambiente em que se encontra.",
+      "author": "Mark Caine",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-08-13T03:27:57.183Z",
+      "updatedAt": "2022-08-13T03:27:57.183Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "62f71cd474afa67cd2360a0d",
+      "phrase": "A persistência é o caminho do êxito.",
+      "author": "Charles Chaplin",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-08-13T03:27:57.183Z",
+      "updatedAt": "2022-08-13T03:27:57.183Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "62f71ce874afa67cd2360a0f",
+      "phrase": "No meio da dificuldade encontra-se a oportunidade.",
+      "author": "-unknown",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-08-13T03:27:57.183Z",
+      "updatedAt": "2022-08-13T03:27:57.183Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "62f71cf674afa67cd2360a11",
+      "phrase": "Lute. Acredite. Conquiste. Perca. Deseje. Espere. Alcance. Invada. Caia. Seja tudo o quiser ser, mas, acima de tudo, seja você sempre.",
+      "author": "Tumblr",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-08-13T03:27:57.183Z",
+      "updatedAt": "2022-08-13T03:27:57.183Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "62f71d0d74afa67cd2360a13",
+      "phrase": "Eu faço da dificuldade a minha motivação. A volta por cima vem na continuação.",
+      "author": "Charlie Brown Jr",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-08-13T03:27:57.183Z",
+      "updatedAt": "2022-08-13T03:27:57.183Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "62f71d1e74afa67cd2360a15",
+      "phrase": "Você atrai o que você é e não o que você quer. Para atrair uma vida melhor, primeiro torne-se melhor.",
+      "author": "Harvey Specter",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-08-13T03:27:57.183Z",
+      "updatedAt": "2022-08-13T03:27:57.183Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "62f71d2a74afa67cd2360a17",
+      "phrase": "When you can't find the sunshine, be the sunshine: all we have is now.",
+      "author": "@isaacjwooden",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-08-13T03:27:57.183Z",
+      "updatedAt": "2022-08-13T03:27:57.183Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "62f71d3a74afa67cd2360a19",
+      "phrase": "Quando você pensar em desistir... Pare e pense em todas as pessoas que adorariam ver você fracassar.",
+      "author": "@douglasdk_tk",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-08-13T03:27:57.183Z",
+      "updatedAt": "2022-08-13T03:27:57.183Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "62f71d4a74afa67cd2360a1b",
+      "phrase": "A subida é difícil, mas a vista lá de cima vai valer a pena.",
+      "author": "@sejavencedor2022",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-08-13T03:27:57.183Z",
+      "updatedAt": "2022-08-13T03:27:57.183Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "62f71d5774afa67cd2360a1d",
+      "phrase": "O primeiro passo não te leva para onde você quer, mas tira você de onde está.",
+      "author": "@determinado_a_evoluir",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-08-13T03:27:57.183Z",
+      "updatedAt": "2022-08-13T03:27:57.183Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "62f71d6774afa67cd2360a1f",
+      "phrase": "A jornada é sua, e somente sua. Outros podem caminhar com você, mas ninguém pode caminhar por você.",
+      "author": "@MatheuxShelby",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-08-13T03:27:57.183Z",
+      "updatedAt": "2022-08-13T03:27:57.183Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "62f71d7574afa67cd2360a21",
+      "phrase": "Só quem carrega o próprio balde sabe quanto vale cada gota d'água.",
+      "author": "-unknown",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-08-13T03:27:57.183Z",
+      "updatedAt": "2022-08-13T03:27:57.183Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "62f71d8774afa67cd2360a23",
+      "phrase": "A dor é passageira, mas desistir é pra sempre.",
+      "author": "@777cfss",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-08-13T03:27:57.183Z",
+      "updatedAt": "2022-08-13T03:27:57.183Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "62f71d9474afa67cd2360a25",
+      "phrase": "Seus colegas, seus amigos até mesmo seus pais podem falhar com você, mas quem não pode falhar com você é você.",
+      "author": "@walmar_vieira",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-08-13T03:27:57.183Z",
+      "updatedAt": "2022-08-13T03:27:57.183Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "62f71da374afa67cd2360a27",
+      "phrase": "Lembre se do motivo que te fez começar.",
+      "author": "@thalescalazanss",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-08-13T03:27:57.183Z",
+      "updatedAt": "2022-08-13T03:27:57.183Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "62f71daf74afa67cd2360a29",
+      "phrase": "Fugir e se esconder dos seus medos, não irá fazê-los desaparecer.",
+      "author": "Shikamaru Nara",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-08-13T03:27:57.183Z",
+      "updatedAt": "2022-08-13T03:27:57.183Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "62f71dbd74afa67cd2360a2b",
+      "phrase": "Você comete erros e fica mais forte por causa deles, essa é a verdadeira força.",
+      "author": "Hinata Hyuga",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-08-13T03:27:57.183Z",
+      "updatedAt": "2022-08-13T03:27:57.183Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "62f71dce74afa67cd2360a2d",
+      "phrase": "Tudo tem seu tempo determinado, há tempo para todo propósito do céu.",
+      "author": "Eclesiastes 3:1",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-08-13T03:27:57.183Z",
+      "updatedAt": "2022-08-13T03:27:57.183Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "62f71de174afa67cd2360a2f",
+      "phrase": "Você nunca sabe o valor do momento, até que ele vire memória, aproveite cada segundo.",
+      "author": "drakkarys#0001",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-08-13T03:27:57.183Z",
+      "updatedAt": "2022-08-13T03:27:57.183Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "62f71df174afa67cd2360a31",
+      "phrase": "Você tem só uma vida. É seu dever vivê-la o mais plenamente possível.",
+      "author": "William Traynor",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-08-13T03:27:57.183Z",
+      "updatedAt": "2022-08-13T03:27:57.183Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "62f71dfe74afa67cd2360a33",
+      "phrase": "Quando estiver cansado aprenda a descansar, não a desistir.",
+      "author": "@shelby_frases1",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-08-13T03:27:57.183Z",
+      "updatedAt": "2022-08-13T03:27:57.183Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "62f71e0b74afa67cd2360a35",
+      "phrase": "As vezes você tem que lembrar de quem você era, para valorizar quem você é hoje.",
+      "author": "@shelby_frases1",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-08-13T03:27:57.183Z",
+      "updatedAt": "2022-08-13T03:27:57.183Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "62f71e1674afa67cd2360a37",
+      "phrase": "Quando Deus quer fazer um homem forte, Deus o quebra em pedaços primeiro.",
+      "author": "@shelby_frases1",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-08-13T03:27:57.183Z",
+      "updatedAt": "2022-08-13T03:27:57.183Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "62f71e1e74afa67cd2360a39",
+      "phrase": "Ou você muda, ou tudo se repete.",
+      "author": "@shelby_frases1",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-08-13T03:27:57.183Z",
+      "updatedAt": "2022-08-13T03:27:57.183Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "62f71e2774afa67cd2360a3b",
+      "phrase": "Seu maior fã é um estranho, seu maior hater é um conhecido.",
+      "author": "@shelby_frases1",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-08-13T03:27:57.183Z",
+      "updatedAt": "2022-08-13T03:27:57.183Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "62f71e2e74afa67cd2360a3d",
+      "phrase": "Chamaram-me de ovelha negra da família... Mal sabiam eles que eu era o lobo.",
+      "author": "@shelby_frases1",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-08-13T03:27:57.183Z",
+      "updatedAt": "2022-08-13T03:27:57.183Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "62f71e3b74afa67cd2360a3f",
+      "phrase": "Desistir? Jamais, eu quero ver todos que deram risada, me aplaudiram, de pé.",
+      "author": "@shelby_frases1",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-08-13T03:27:57.183Z",
+      "updatedAt": "2022-08-13T03:27:57.183Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "62f71e4474afa67cd2360a41",
+      "phrase": "Muitos querem ter aquilo que você tem, mas vão desistir quando souberam o preço que você pagou.",
+      "author": "@shelby_frases1",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-08-13T03:27:57.183Z",
+      "updatedAt": "2022-08-13T03:27:57.183Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "62f71e4c74afa67cd2360a43",
+      "phrase": "Nunca abaixe a cabeça para ninguém, nem levante o nariz alto demais, olho no olho já é o suficiente.",
+      "author": "@shelby_frases1",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-08-13T03:27:57.183Z",
+      "updatedAt": "2022-08-13T03:27:57.183Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "62f71e5b74afa67cd2360a45",
+      "phrase": "Nunca se esqueça de orar todas as noites... Deus nunca esquece de te acordar todos os dias.",
+      "author": "@MatheuxShelby",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-08-13T03:27:57.183Z",
+      "updatedAt": "2022-08-13T03:27:57.183Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "62f71e6b74afa67cd2360a47",
+      "phrase": "Quer resultados incríveis? Seja incrível e vá além do padrão. Ou você acha que pessoas normais tem resultados incríveis?",
+      "author": "@oLuigiMF",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-08-13T03:27:57.183Z",
+      "updatedAt": "2022-08-13T03:27:57.183Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "62f71e7774afa67cd2360a49",
+      "phrase": "Se você quer mudar os frutos, primeiro mude as raízes.",
+      "author": "@_7seven12",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-08-13T03:27:57.183Z",
+      "updatedAt": "2022-08-13T03:27:57.183Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "62f71e8474afa67cd2360a4b",
+      "phrase": "Evolua tanto que os outros precisarão te conhecer novamente.",
+      "author": "@_7seven12",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-08-13T03:27:57.183Z",
+      "updatedAt": "2022-08-13T03:27:57.183Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "62f71e8e74afa67cd2360a4d",
+      "phrase": "Você só crescerá de verdade fora da sua zona de conforto.",
+      "author": "@_7seven12",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-08-13T03:27:57.183Z",
+      "updatedAt": "2022-08-13T03:27:57.183Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "62f71ea674afa67cd2360a4f",
+      "phrase": "A meta é olhar para trás e dizer: 'ainda bem que eu não desisti'.",
+      "author": "@bandodosucesso",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-08-13T03:27:57.183Z",
+      "updatedAt": "2022-08-13T03:27:57.183Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "62f71eb174afa67cd2360a51",
+      "phrase": "Ou você aprende a confiar em si, ou será sempre refém da opinião alheia.",
+      "author": "@bandodosucesso",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-08-13T03:27:57.183Z",
+      "updatedAt": "2022-08-13T03:27:57.183Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "62f71eba74afa67cd2360a53",
+      "phrase": "A disciplina te leva onde a motivação não pode te levar.",
+      "author": "@bandodosucesso",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-08-13T03:27:57.183Z",
+      "updatedAt": "2022-08-13T03:27:57.183Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "62f71ec474afa67cd2360a55",
+      "phrase": "Abra os olhos. Agradeça. Pule da cama. Conquiste o mundo.",
+      "author": "@bandodosucesso",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-08-13T03:27:57.183Z",
+      "updatedAt": "2022-08-13T03:27:57.183Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "62f71ecb74afa67cd2360a57",
+      "phrase": "Às vezes não há próxima vez. Às vezes é agora ou nunca.",
+      "author": "@bandodosucesso",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-08-13T03:27:57.183Z",
+      "updatedAt": "2022-08-13T03:27:57.183Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "62f71edd74afa67cd2360a59",
+      "phrase": "Não nos limitamos a sentar e esperar por outras pessoas. Simplesmente fazemos, e fazemos.",
+      "author": "Arlan Hamilton",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-08-13T03:27:57.183Z",
+      "updatedAt": "2022-08-13T03:27:57.183Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "62f71f9274afa67cd2360a6c",
+      "phrase": "Uma carteira vazia, um estômago com fome e um coração partido te ensinam as melhores lições da vida.",
+      "author": "@alex_sad777",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-08-13T03:27:57.183Z",
+      "updatedAt": "2022-08-13T03:27:57.183Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "62f7200074afa67cd2360a6e",
+      "phrase": "Não viva para que sua presença seja notada, mas para que sua falta seja sentida.",
+      "author": "@Hydra_Juan",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-08-13T03:27:57.183Z",
+      "updatedAt": "2022-08-13T03:27:57.183Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "62f7207674afa67cd2360a70",
+      "phrase": "Aquele que não luta pelo futuro que quer, tem que aceitar o futuro que vive.",
+      "author": "@arturaleatory",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-08-13T03:27:57.183Z",
+      "updatedAt": "2022-08-13T03:27:57.183Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "62f720b274afa67cd2360a72",
+      "phrase": "Preencha sua vida com aventuras e não coisas. Tenha coisas para contar e não para mostrar.",
+      "author": "-unknown",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-08-13T03:27:57.183Z",
+      "updatedAt": "2022-08-13T03:27:57.183Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "62f720fe74afa67cd2360a74",
+      "phrase": "Você pode abrir a boca e reclamar ou abrir a mente e aprender. O dia será o mesmo, o resultado não.",
+      "author": "-alex_sad777",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-08-13T03:27:57.183Z",
+      "updatedAt": "2022-08-13T03:27:57.183Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "62f7212e74afa67cd2360a76",
+      "phrase": "A dor faz você mais forte, o medo faz você mais corajoso e a paciência faz você mais sábio.",
+      "author": "@xit_087",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-08-13T03:27:57.183Z",
+      "updatedAt": "2022-08-13T03:27:57.183Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "62f7216f74afa67cd2360a78",
+      "phrase": "Onde tu investes o teu tempo, investes a tua vida.",
+      "author": "@bilhetesdeamor",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-08-13T03:27:57.183Z",
+      "updatedAt": "2022-08-13T03:27:57.183Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "62f721cf74afa67cd2360a7a",
+      "phrase": "Ser odiado por um bando de idiotas é o preço que você paga por não ser um deles.",
+      "author": "@papodemilionario",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-08-13T03:27:57.183Z",
+      "updatedAt": "2022-08-13T03:27:57.183Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "62f721fd74afa67cd2360a7c",
+      "phrase": "Trabalhe duro por uma causa, não por aplausos. Viva para se expressar, não para impressionar.",
+      "author": "@papodemilionario",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-08-13T03:27:57.183Z",
+      "updatedAt": "2022-08-13T03:27:57.183Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "62f7221d74afa67cd2360a7e",
+      "phrase": "Lembre-se que Deus dá as batalhas mais difíceis para seus melhores guerreiros.",
+      "author": "@papodemilionario",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-08-13T03:27:57.183Z",
+      "updatedAt": "2022-08-13T03:27:57.183Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "62f7223e74afa67cd2360a80",
+      "phrase": "Se você tentar, você arrisca fracassar. Se você não tentar, você garante o fracasso.",
+      "author": "@papodemilionario",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-08-13T03:27:57.183Z",
+      "updatedAt": "2022-08-13T03:27:57.183Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "62f7225b74afa67cd2360a82",
+      "phrase": "Quando tudo parecer contra você, lembre que o avião decola contra o vento.",
+      "author": "@papodemilionario",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-08-13T03:27:57.183Z",
+      "updatedAt": "2022-08-13T03:27:57.183Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "62f7227a74afa67cd2360a84",
+      "phrase": "Antes de fazer grandes coisas, você deve acreditar que pode fazer grandes coisas.",
+      "author": "@papodemilionario",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-08-13T03:27:57.183Z",
+      "updatedAt": "2022-08-13T03:27:57.183Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "62f722b174afa67cd2360a86",
+      "phrase": "Ninguém se importa com seu esforço, mas tenha certeza que vai ser impossível ignorar os resultados.",
+      "author": "@papodemilionario",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-08-13T03:27:57.183Z",
+      "updatedAt": "2022-08-13T03:27:57.183Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "62f722cd74afa67cd2360a88",
+      "phrase": "Pare de pegar leve com você, acredite, você dá conta!",
+      "author": "@papodemilionario",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-08-13T03:27:57.183Z",
+      "updatedAt": "2022-08-13T03:27:57.183Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "62f722f574afa67cd2360a8a",
+      "phrase": "Estude por você, malhe por você, trabalhe por você, sonhe e conquiste por você. Aprenda a viver por você, não por outras pessoas.",
+      "author": "@papodemilionario",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-08-13T03:27:57.183Z",
+      "updatedAt": "2022-08-13T03:27:57.183Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "62f7232374afa67cd2360a8c",
+      "phrase": "Quem não sabe o que quer, as vezes perde o que tem. E as vezes descobre que perdeu exatamente o que queria.",
+      "author": "@shelbmotivering",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-08-13T03:27:57.183Z",
+      "updatedAt": "2022-08-13T03:27:57.183Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "62f7239074afa67cd2360a8e",
+      "phrase": "Todos temos 2 vidas, e a segunda começa quando percebemos que só temos uma.",
+      "author": "@alex_sad777",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-08-13T03:27:57.183Z",
+      "updatedAt": "2022-08-13T03:27:57.183Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "62f7240d74afa67cd2360a90",
+      "phrase": "Tudo melhora quando você decide não se importar mais.",
+      "author": "drakkarys#0001",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-08-13T03:27:57.183Z",
+      "updatedAt": "2022-08-13T03:27:57.183Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "62f724ae74afa67cd2360a92",
+      "phrase": "Me tornei forte quando entendi que dali pra frente teria que aprender a me levantar sozinho.",
+      "author": "@alex_sad777",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-08-13T03:27:57.183Z",
+      "updatedAt": "2022-08-13T03:27:57.183Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "62fb04d752c08f3d609b0c05",
+      "phrase": "Não é tarde demais para tentar corrigir ou fazer algo dar certo, pois uma chance em um milhão, ainda é uma chance.",
+      "author": "@___e.soares___",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-08-16T02:43:33.562Z",
+      "updatedAt": "2022-08-16T02:43:33.562Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "630287092b882ae573bb8042",
+      "phrase": "The fears we don't face become our limits.",
+      "author": "@isaacjwooden",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-08-21T18:54:43.547Z",
+      "updatedAt": "2022-08-21T18:54:43.547Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "6302873b2b882ae573bb8045",
+      "phrase": "A única morte de verdade é nunca viver.",
+      "author": "Rainha Vermelha",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-08-21T18:54:43.547Z",
+      "updatedAt": "2022-08-21T18:54:43.547Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "6302877b2b882ae573bb804f",
+      "phrase": "Never accept anyone's definition of yourself.",
+      "author": "@isaacjwooden",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-08-21T18:54:43.547Z",
+      "updatedAt": "2022-08-21T18:54:43.547Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "6302879d2b882ae573bb8052",
+      "phrase": "Worrying doesn't take away tomorrow's troubles... it takes away today's peace.",
+      "author": "@isaacjwooden",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-08-21T18:54:43.547Z",
+      "updatedAt": "2022-08-21T18:54:43.547Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "630288332b882ae573bb805a",
+      "phrase": "Torne-se autorresponsável por tudo que te acontece com você. Assim vai alimentar sua autoconfiança. Entenda que você cria a p*rra do seu fracasso e o seu sucesso!",
+      "author": "Thiago Finch",
+      "postedBy": "630286972b882ae573bb8034",
+      "postedAt": "2022-08-21T18:54:43.547Z",
+      "updatedAt": "2022-08-21T18:54:43.547Z",
+      "updatedBy": "630286972b882ae573bb8034",
+      "__v": 0
+    },
+    {
+      "_id": "6302884f2b882ae573bb805d",
+      "phrase": "Você não pediu pra nascer e vai morrer sem querer. Aproveite o intervalo!",
+      "author": "@koji_henrique_",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-08-21T18:54:43.547Z",
+      "updatedAt": "2022-08-21T18:54:43.547Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "630288b22b882ae573bb8060",
+      "phrase": "As pessoas oram pelo bolo, então quando Deus lhes dá manteiga, ovos,  óleos, glacê, uma panela e um forno elas ficam frustradas e saem da cozinha... As vezes você tem tudo na sua frente, mas o quanto você quer isto?",
+      "author": "@koji_henrique_",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-08-21T18:54:43.547Z",
+      "updatedAt": "2022-08-21T18:54:43.547Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "6309eccef24bb87d2513663b",
+      "phrase": "Trust me you can take it. Go on and take your aim, man!",
+      "author": "NEFFEX - Built to Last",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-08-27T10:05:21.904Z",
+      "updatedAt": "2022-08-27T10:05:21.904Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "630b6db3116f0e7899b56069",
+      "phrase": "Ande como se fosse o rei, ou como se não se importasse com quem é o rei.",
+      "author": "@eurenatoyuri",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-08-28T12:25:33.726Z",
+      "updatedAt": "2022-08-28T12:25:33.726Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "630b6dc3116f0e7899b5606c",
+      "phrase": "Não pare quando estiver cansado, pare quando terminar.",
+      "author": "@eurenatoyuri",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-08-28T12:25:33.726Z",
+      "updatedAt": "2022-08-28T12:25:33.726Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "630b6e07116f0e7899b5606f",
+      "phrase": "It's not what happens to you, but how you react to it that matters.",
+      "author": "@isaacjwooden",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-08-28T12:25:33.726Z",
+      "updatedAt": "2022-08-28T12:25:33.726Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "630b6e3b116f0e7899b56072",
+      "phrase": "Valorize o processo, pois ele vai te ensinar coisas que o resultado final não vai conseguir.",
+      "author": "@raizenking",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-08-28T12:25:33.726Z",
+      "updatedAt": "2022-08-28T12:25:33.726Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "630b6e63116f0e7899b56075",
+      "phrase": "Se você não tem coragem, não adiante ter vontade.",
+      "author": "@shiryu_slayer",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-08-28T12:25:33.726Z",
+      "updatedAt": "2022-08-28T12:25:33.726Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "630b6ea9116f0e7899b56078",
+      "phrase": "Quando sair ore, e quando voltar agradeça. Você não faz ideia de tudo que Deus te livrou nessa ida e volta.",
+      "author": "-unknown",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-08-28T12:25:33.726Z",
+      "updatedAt": "2022-08-28T12:25:33.726Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "630b6efe116f0e7899b5607b",
+      "phrase": "Learn to say \"no\" without explaining yourself.",
+      "author": "@isaacjwooden",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-08-28T12:25:33.726Z",
+      "updatedAt": "2022-08-28T12:25:33.726Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "630b6f18116f0e7899b5607e",
+      "phrase": "Faça. Vão te criticar da mesma forma.",
+      "author": "-unknown",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-08-28T12:25:33.726Z",
+      "updatedAt": "2022-08-28T12:25:33.726Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "630deb9583b121480a5e1a36",
+      "phrase": "Don't live the same year 75 times and call it a life.",
+      "author": "@isaacjwooden",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-08-30T10:49:58.761Z",
+      "updatedAt": "2022-08-30T10:49:58.761Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "63121ea0a606903c854ee1fc",
+      "phrase": "Tudo não passa de uma questão de escolha, ou você fica o resto dos seus dias imaginando como tudo poderia ter sido, ou mete a cara, enfrenta seus medos e constrói a sua realidade.",
+      "author": "@atitudemilhoes",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-09-02T15:10:41.649Z",
+      "updatedAt": "2022-09-02T15:10:41.649Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "63121efda606903c854ee1ff",
+      "phrase": "O diabo sussurrou no meu ouvido: \"Você não é forte o suficiente para aguentar a tempestade.\"\nE eu sussurrei no ouvido do diabo: \"Eu sou a tempestade.\"",
+      "author": "@sgtshelby1",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-09-02T15:10:41.649Z",
+      "updatedAt": "2022-09-02T15:10:41.649Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "6312802639cf39e1615293bf",
+      "phrase": "As melhores sensações da vida nos custam apenas coragem.",
+      "author": "-unknown",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-09-02T22:07:14.146Z",
+      "updatedAt": "2022-09-02T22:07:14.146Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "63279bf9b1b6ae949d220826",
+      "phrase": "A cura para qualquer coisa é água salgada: Lágrimas, suor ou o mar.",
+      "author": "Isak Dinesen",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-09-18T22:29:57.991Z",
+      "updatedAt": "2022-09-18T22:29:57.991Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "634744fc015ba68e8c1ef7b1",
+      "phrase": "Sucesso é ir de fracasso em fracasso sem perder o entusiasmo.",
+      "author": "Winston Churchill",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:51:38.744Z",
+      "updatedAt": "2022-10-12T22:51:38.744Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "634744fc015ba68e8c1ef7b3",
+      "phrase": "Um homem pode ser tão grande quanto ele queira ser. Se você acredita em si mesmo e tem coragem, determinação, dedicação, iniciativa competitiva e se você está disposto a sacrificar as pequenas coisas da vida e pagar o preço pelas coisas que valem a pena, isso pode ser feito.",
+      "author": "Vince Lombardi",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:51:38.744Z",
+      "updatedAt": "2022-10-12T22:51:38.744Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "634744fc015ba68e8c1ef7b5",
+      "phrase": "Não deixe que o medo de perder seja maior que a excitação de vencer.",
+      "author": "Robert Kiyosaki",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:51:38.744Z",
+      "updatedAt": "2022-10-12T22:51:38.744Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "634744fc015ba68e8c1ef7b7",
+      "phrase": "Na minha experiência, há só uma motivação, e isso é o desejo. Nenhuma razão ou princípio contêm ele ou se levantam contra ele.",
+      "author": "Jane Smiley",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:51:38.744Z",
+      "updatedAt": "2022-10-12T22:51:38.744Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "634744fc015ba68e8c1ef7b9",
+      "phrase": "Dificuldades reais podem ser superadas; apenas as imaginárias são insuperáveis.",
+      "author": "Theodore N. Vail",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:51:38.744Z",
+      "updatedAt": "2022-10-12T22:51:38.744Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "634744fc015ba68e8c1ef7bb",
+      "phrase": "A fortuna fica ao lado daquele que ousa.",
+      "author": "Virgil",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:51:38.744Z",
+      "updatedAt": "2022-10-12T22:51:38.744Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "634744fc015ba68e8c1ef7bd",
+      "phrase": "aqueles que são loucos o suficiente para pensar que podem mudar o mundo são os que o fazem",
+      "author": "Anonymous",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:51:38.744Z",
+      "updatedAt": "2022-10-12T22:51:38.744Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "634744fd015ba68e8c1ef7bf",
+      "phrase": "Pessoas raramente obtém sucesso a menos que se divirtam com o que fazem.",
+      "author": "Dale Carnegie",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:51:38.744Z",
+      "updatedAt": "2022-10-12T22:51:38.744Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "634744fd015ba68e8c1ef7c1",
+      "phrase": "Não tenha medo de desistir do bom para ir ao grande",
+      "author": "John D. Rockefeller",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:51:38.744Z",
+      "updatedAt": "2022-10-12T22:51:38.744Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "634744fd015ba68e8c1ef7c3",
+      "phrase": "Você tem que acordar cada manhã com determinação se você quer ir para a cama com satisfação.",
+      "author": "George Lorimer",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:51:38.744Z",
+      "updatedAt": "2022-10-12T22:51:38.744Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "6347453e9fd9429b474905e6",
+      "phrase": "Há dois tipos de pessoas que dirão que você não pode fazer diferença nesse mundo: aquelas que tem medo de tentar e aquelas que temem que você consiga.",
+      "author": "Ray Goforth",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:52:44.254Z",
+      "updatedAt": "2022-10-12T22:52:44.254Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "6347453e9fd9429b474905e8",
+      "phrase": "Você deve esperar grandes coisas de você mesmo antes de poder faze-las",
+      "author": "Michael Jordan",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:52:44.254Z",
+      "updatedAt": "2022-10-12T22:52:44.254Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "6347453e9fd9429b474905ea",
+      "phrase": "Ninguém pode fazer você se sentir inferior sem o seu consentimento.",
+      "author": "Eleanor Roosevelt",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:52:44.254Z",
+      "updatedAt": "2022-10-12T22:52:44.254Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "6347453e9fd9429b474905ec",
+      "phrase": "Pessoas bem sucedidas fazer o que pessoas não mal-sucedidas não estão dispostas a fazer. Não desejam que seja mais fácil, mas que sejam melhores.",
+      "author": "Jim Rohn",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:52:44.254Z",
+      "updatedAt": "2022-10-12T22:52:44.254Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "6347453e9fd9429b474905ee",
+      "phrase": "Conhecimento é estar ciente do que você pode fazer. Sabedoria é saber quando não fazer.",
+      "author": "Anonymous ",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:52:44.254Z",
+      "updatedAt": "2022-10-12T22:52:44.254Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "6347453e9fd9429b474905f0",
+      "phrase": "Se você não esta disposto a arriscar o habitual, você terá que se contentar com o normal",
+      "author": "Jim Rohn",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:52:44.254Z",
+      "updatedAt": "2022-10-12T22:52:44.254Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "6347453e9fd9429b474905f2",
+      "phrase": "Pegue uma ideia. Faça dessa única ideia a sua vida - pense nela, sonhe com ela, viva essa ideia. Deixe o cérebro, os músculos, os nervos, todas as partes do seu corpo, estarem cheios dessa ideia, e apenas deixe todas as outras ideias em paz. Este é o caminho para o sucesso.",
+      "author": "Swami Vivekananda",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:52:44.254Z",
+      "updatedAt": "2022-10-12T22:52:44.254Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "6347453e9fd9429b474905f4",
+      "phrase": "A razão número um para as pessoas que falham na vida é porque ouvem seus amigos, família e vizinhos.",
+      "author": "Napoleon Hill",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:52:44.254Z",
+      "updatedAt": "2022-10-12T22:52:44.254Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "6347453e9fd9429b474905f6",
+      "phrase": "Nada no mundo é mais comum que pessoas mal-sucedidas com talento.",
+      "author": "Anonymous",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:52:44.254Z",
+      "updatedAt": "2022-10-12T22:52:44.254Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "6347453e9fd9429b474905f8",
+      "phrase": "A função da liderança é produzir mais líderes, não seguidores.",
+      "author": "Ralph Nader",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:52:44.254Z",
+      "updatedAt": "2022-10-12T22:52:44.254Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "634745486831ad69ed8ba556",
+      "phrase": "Para realizar grandes coisas, devemos não apenas agir, mas também sonhar, não apenas planejar, mas também acreditar",
+      "author": " Anatole France",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:52:55.065Z",
+      "updatedAt": "2022-10-12T22:52:55.065Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "634745486831ad69ed8ba558",
+      "phrase": "Boas coisas vem para as pessoas que esperam, mas coisas ainda melhores vêm para aquelas que vão e buscam.",
+      "author": "Anonymous",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:52:55.065Z",
+      "updatedAt": "2022-10-12T22:52:55.065Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "634745486831ad69ed8ba55a",
+      "phrase": "Bem-aventurados aqueles que podem dar sem lembrar e levar sem esquecer.",
+      "author": "Anonymous",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:52:55.065Z",
+      "updatedAt": "2022-10-12T22:52:55.065Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "634745486831ad69ed8ba55c",
+      "phrase": "Não levante sua voz, melhore seu argumento.",
+      "author": "Anonymous",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:52:55.065Z",
+      "updatedAt": "2022-10-12T22:52:55.065Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "634745486831ad69ed8ba55e",
+      "phrase": "O sucesso é ... conhecer o seu propósito na vida, crescer para alcançar o seu potencial máximo e semear as sementes que beneficiam os outros.",
+      "author": " John C. Maxwell",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:52:55.065Z",
+      "updatedAt": "2022-10-12T22:52:55.065Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "634745486831ad69ed8ba560",
+      "phrase": "O sucesso é gostar de você mesmo, gostar do que você faz e gostar de como você faz isso.",
+      "author": "Maya Angelou",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:52:55.065Z",
+      "updatedAt": "2022-10-12T22:52:55.065Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "634745486831ad69ed8ba562",
+      "phrase": "O que nos parece como julgamentos amargos são muitas vezes bênçãos disfarçadas",
+      "author": " Oscar Wilde",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:52:55.065Z",
+      "updatedAt": "2022-10-12T22:52:55.065Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "634745486831ad69ed8ba564",
+      "phrase": "Oportunidades não acontecem, você as cria.",
+      "author": "Chris Grosser",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:52:55.065Z",
+      "updatedAt": "2022-10-12T22:52:55.065Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "634745486831ad69ed8ba566",
+      "phrase": "O significado da vida é encontrar o seu dom. O propósito da vida é entregá-lo.",
+      "author": "Anonymous",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:52:55.065Z",
+      "updatedAt": "2022-10-12T22:52:55.065Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "634745486831ad69ed8ba568",
+      "phrase": "A vida não é sobre encontrar a si mesmo. A vida é sobre criar você mesmo.",
+      "author": "Lolly Daskal",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:52:55.065Z",
+      "updatedAt": "2022-10-12T22:52:55.065Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "634745486831ad69ed8ba56a",
+      "phrase": "Eu não falhei. Apenas encontrei 10.000 maneiras que não funcionam.",
+      "author": "Thomas A. Edison",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:52:55.065Z",
+      "updatedAt": "2022-10-12T22:52:55.065Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "634745486831ad69ed8ba56c",
+      "phrase": "As coisas funcionam melhor para aqueles que fazem o melhor de como as coisas funcionam.",
+      "author": "John Wooden",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:52:55.065Z",
+      "updatedAt": "2022-10-12T22:52:55.065Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "634745486831ad69ed8ba56e",
+      "phrase": "Grandes mentes discutem ideias; mentes comuns discutem eventos; mentes pequenas discutem pessoas.",
+      "author": "Eleanor Roosevelt",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:52:55.065Z",
+      "updatedAt": "2022-10-12T22:52:55.065Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "634745486831ad69ed8ba570",
+      "phrase": "Se você quer alcançar a excelência, pode chegar lá hoje. A partir deste segundo, pare de fazer um trabalho menos que excelente",
+      "author": "Thomas J. Watson",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:52:55.065Z",
+      "updatedAt": "2022-10-12T22:52:55.065Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "634745486831ad69ed8ba572",
+      "phrase": "Empresários de sucesso são doadores e não tomadores de energia positiva.",
+      "author": "Anonymous",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:52:55.065Z",
+      "updatedAt": "2022-10-12T22:52:55.065Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "634745486831ad69ed8ba574",
+      "phrase": "Se você não pode explicar isso simplesmente, você não entende bem o suficiente. ",
+      "author": "Albert Einstein",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:52:55.065Z",
+      "updatedAt": "2022-10-12T22:52:55.065Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "634745486831ad69ed8ba576",
+      "phrase": "Para viver uma vida criativa, devemos perder o medo de estar errado.",
+      "author": "Anonymous",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:52:55.065Z",
+      "updatedAt": "2022-10-12T22:52:55.065Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "634745486831ad69ed8ba578",
+      "phrase": "É melhor falhar na originalidade do que ter sucesso na imitação.",
+      "author": "Herman Melville",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:52:55.065Z",
+      "updatedAt": "2022-10-12T22:52:55.065Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "634745486831ad69ed8ba57a",
+      "phrase": "Nosso maior medo não deve ser o fracasso, mas o sucesso nas coisas da vida que realmente não importam.",
+      "author": "Francis Chan",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:52:55.065Z",
+      "updatedAt": "2022-10-12T22:52:55.065Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "634745486831ad69ed8ba57c",
+      "phrase": "Você mede o tamanho da conquista pelos obstáculos que você teve que superar para alcançar seus objetivos.",
+      "author": "Booker T. Washington",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:52:55.065Z",
+      "updatedAt": "2022-10-12T22:52:55.065Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "634745486831ad69ed8ba57e",
+      "phrase": "Nenhuma obra-prima foi criada por um artista preguiçoso.",
+      "author": " Anonymous",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:52:55.065Z",
+      "updatedAt": "2022-10-12T22:52:55.065Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "634745486831ad69ed8ba580",
+      "phrase": "Um verdadeiro empreendedor é alguém que não tem rede de segurança por baixo deles.",
+      "author": "Henry Kravis",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:52:55.065Z",
+      "updatedAt": "2022-10-12T22:52:55.065Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "634745486831ad69ed8ba582",
+      "phrase": "Coragem é resistência ao medo, domínio do medo - não ausência de medo",
+      "author": "Mark Twain",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:52:55.065Z",
+      "updatedAt": "2022-10-12T22:52:55.065Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "634745486831ad69ed8ba584",
+      "phrase": "Todos os nossos sonhos podem se tornar realidade se tivermos coragem de persegui-los.",
+      "author": "Walt Disney",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:52:55.065Z",
+      "updatedAt": "2022-10-12T22:52:55.065Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "634745496831ad69ed8ba586",
+      "phrase": "Quando eu me atrevo a ser poderoso - para usar minha força no serviço da minha visão, então torna-se cada vez menos importante se eu tenho medo.",
+      "author": "Audre Lorde",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:52:55.065Z",
+      "updatedAt": "2022-10-12T22:52:55.065Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "634745496831ad69ed8ba588",
+      "phrase": "Pensar deve se tornar seu ativo de capital, não importa os altos e baixos que você encontra em sua vida.",
+      "author": "Dr. APJ Kalam ",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:52:55.065Z",
+      "updatedAt": "2022-10-12T22:52:55.065Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "634745496831ad69ed8ba58a",
+      "phrase": "Seja miserável ou se motive. O que quer que tenha que ser feito, é sempre sua escolha.",
+      "author": "Wayne Dyer",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:52:55.065Z",
+      "updatedAt": "2022-10-12T22:52:55.065Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "634745496831ad69ed8ba58c",
+      "phrase": "Quando você pára de perseguir as coisas erradas, você dá as coisas certas a chance de pegar você.",
+      "author": "Lolly Daskal",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:52:55.065Z",
+      "updatedAt": "2022-10-12T22:52:55.065Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "634745496831ad69ed8ba58e",
+      "phrase": "Eu não quero chegar ao fim da minha vida e descobrir que eu vivi apenas o comprimento dela. Eu quero ter vivido a largura também",
+      "author": "Diane Ackerman",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:52:55.065Z",
+      "updatedAt": "2022-10-12T22:52:55.065Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "634745496831ad69ed8ba590",
+      "phrase": "Para ser bem sucedido, você deve aceitar todos os desafios que surgem em seu caminho. Você não pode simplesmente aceitar os que você gosta.",
+      "author": "Mike Gafka",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:52:55.065Z",
+      "updatedAt": "2022-10-12T22:52:55.065Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "634745539ff724cd7cc06856",
+      "phrase": "Se você não valoriza seu tempo, nem os outros irão. Pare de doar seu tempo e talentos - comece a cobrar por isso.",
+      "author": "Kim Garst",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:05.059Z",
+      "updatedAt": "2022-10-12T22:53:05.059Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "634745539ff724cd7cc06858",
+      "phrase": "Sempre que você se encontra do lado da maioria, é hora de parar e refletir.",
+      "author": "Mark Twain",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:05.059Z",
+      "updatedAt": "2022-10-12T22:53:05.059Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "634745539ff724cd7cc0685a",
+      "phrase": "A felicidade é uma borboleta que, quando perseguida, está sempre além de seu alcance, mas que, se você se sentar em silêncio, pode pousar em você.",
+      "author": "Nathaniel Hawthorne",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:05.059Z",
+      "updatedAt": "2022-10-12T22:53:05.059Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "634745539ff724cd7cc0685c",
+      "phrase": "Eu acho que quando você tem um interesse real na vida e uma vida curiosa, esse sono não é a coisa mais importante.",
+      "author": "Martha Stewart ",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:05.059Z",
+      "updatedAt": "2022-10-12T22:53:05.059Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "634745539ff724cd7cc0685e",
+      "phrase": "Só adie para amanhã o que você esta disposto a morrer tendo deixado desfeito.",
+      "author": "Pablo Picasso",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:05.059Z",
+      "updatedAt": "2022-10-12T22:53:05.059Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "634745539ff724cd7cc06860",
+      "phrase": "Tente não se tornar uma pessoa de sucesso, mas tente se tornar uma pessoa de valor. ",
+      "author": "Albert Einstein",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:05.059Z",
+      "updatedAt": "2022-10-12T22:53:05.059Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "634745539ff724cd7cc06862",
+      "phrase": "O primeiro passo em direção ao sucesso é dado quando você se recusa a ser prisioneiro do ambiente no qual você inicialmente se encontra.",
+      "author": "Mark Caine",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:05.059Z",
+      "updatedAt": "2022-10-12T22:53:05.059Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "634745539ff724cd7cc06864",
+      "phrase": "O único lugar que o sucesso vem antes do trabalho é no dicionário.",
+      "author": "Vidal Sassoon",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:05.059Z",
+      "updatedAt": "2022-10-12T22:53:05.059Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "634745539ff724cd7cc06866",
+      "phrase": "Se você não conceber o seu próprio plano de vida, é provável que caia no plano de outra pessoa. E adivinha o que eles planejaram para você? Não muito.",
+      "author": " Jim Rohn",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:05.059Z",
+      "updatedAt": "2022-10-12T22:53:05.059Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "634745539ff724cd7cc06868",
+      "phrase": "Você não pode conectar os pontos olhando para frente; você só pode conectá-los olhando para trás. Então você tem que confiar que os pontos de alguma forma se conectarão no seu futuro. Você tem que confiar em algo - seu intestino, destino, vida, karma, qualquer coisa. Essa abordagem nunca me decepcionou, e isso fez toda a diferença na minha vida.",
+      "author": "Steve Jobs",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:05.059Z",
+      "updatedAt": "2022-10-12T22:53:05.059Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "634745539ff724cd7cc0686a",
+      "phrase": "O caminho para o sucesso e o caminho para o fracasso são quase exatamente os mesmos.",
+      "author": "Colin R. Davis",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:05.059Z",
+      "updatedAt": "2022-10-12T22:53:05.059Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "634745539ff724cd7cc0686c",
+      "phrase": "Faça todos os dias uma coisa que o assuste.",
+      "author": "Anonymous",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:05.059Z",
+      "updatedAt": "2022-10-12T22:53:05.059Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "634745539ff724cd7cc0686e",
+      "phrase": "As pessoas costumam dizer que a motivação não dura. Bem, nem banho - é por isso que recomendamos diariamente.",
+      "author": "Zig Ziglar",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:05.059Z",
+      "updatedAt": "2022-10-12T22:53:05.059Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "634745539ff724cd7cc06870",
+      "phrase": "Confie porque você está disposto a aceitar o risco, não porque é seguro ou certo.",
+      "author": "Anonymous",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:05.059Z",
+      "updatedAt": "2022-10-12T22:53:05.059Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "634745539ff724cd7cc06872",
+      "phrase": "Não é o que você olha que importa, é o que você vê.",
+      "author": "Anonymous",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:05.059Z",
+      "updatedAt": "2022-10-12T22:53:05.059Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "634745539ff724cd7cc06874",
+      "phrase": "Se você realmente quer algo, não espere - se ensine a ser impaciente.",
+      "author": "Gurbaksh Chahal",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:05.059Z",
+      "updatedAt": "2022-10-12T22:53:05.059Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "634745539ff724cd7cc06876",
+      "phrase": "Se você fizer o que você sempre fez, você terá o que sempre conseguiu.",
+      "author": "Anonymous",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:05.059Z",
+      "updatedAt": "2022-10-12T22:53:05.059Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "634745539ff724cd7cc06878",
+      "phrase": "O sucesso é a soma de pequenos esforços, repetidos dia após dia.",
+      "author": "Robert Collier",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:05.059Z",
+      "updatedAt": "2022-10-12T22:53:05.059Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "634745539ff724cd7cc0687a",
+      "phrase": "Pessoas que conseguem ter sucesso. Quanto mais eles têm sucesso, mais eles querem ter sucesso, e mais eles encontram um caminho para ter sucesso. Da mesma forma, quando alguém está falhando, a tendência é entrar em uma espiral descendente que pode até se tornar uma profecia auto-realizável.",
+      "author": "Tony Robbins",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:05.059Z",
+      "updatedAt": "2022-10-12T22:53:05.059Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "634745539ff724cd7cc0687c",
+      "phrase": "Pequenas mentes são domadas e subjugadas pelo infortúnio; mas grandes mentes se erguem acima dela.",
+      "author": "Washington Irving",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:05.059Z",
+      "updatedAt": "2022-10-12T22:53:05.059Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "634745539ff724cd7cc0687e",
+      "phrase": "Não deixe o que você não pode fazer interferir com o que você pode fazer.",
+      "author": "John R. Wooden",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:05.059Z",
+      "updatedAt": "2022-10-12T22:53:05.059Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "634745539ff724cd7cc06880",
+      "phrase": "Sucesso não consiste em nunca cometer erros, mas em nunca fazer o mesmo pela segunda vez.",
+      "author": "George Bernard Shaw",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:05.059Z",
+      "updatedAt": "2022-10-12T22:53:05.059Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "634745539ff724cd7cc06882",
+      "phrase": "Todo o segredo de uma vida bem-sucedida é descobrir qual é o destino de cada um e, então, fazer.",
+      "author": "Henry Ford",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:05.059Z",
+      "updatedAt": "2022-10-12T22:53:05.059Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "634745539ff724cd7cc06884",
+      "phrase": "Ao olharmos para o próximo século, os líderes serão aqueles que capacitarão os outros.",
+      "author": "Bill Gates",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:05.059Z",
+      "updatedAt": "2022-10-12T22:53:05.059Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "634745539ff724cd7cc06886",
+      "phrase": "Motivação é o que te faz começar. Hábito é o que te mantém seguindo em frente.",
+      "author": "Jim Ryun",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:05.059Z",
+      "updatedAt": "2022-10-12T22:53:05.059Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "634745539ff724cd7cc06888",
+      "phrase": "Qual é o ponto de estar vivo se você não tentar fazer algo notável?.",
+      "author": "Anonymous",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:05.059Z",
+      "updatedAt": "2022-10-12T22:53:05.059Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "634745539ff724cd7cc0688a",
+      "phrase": "Você pode ter que lutar uma batalha mais de uma vez para vencê-la",
+      "author": "Margaret Thatcher",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:05.059Z",
+      "updatedAt": "2022-10-12T22:53:05.059Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "634745539ff724cd7cc0688c",
+      "phrase": "Um homem de sucesso é aquele que pode estabelecer uma base sólida com os tijolos que outros jogaram nele.",
+      "author": "David Brinkley",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:05.059Z",
+      "updatedAt": "2022-10-12T22:53:05.059Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "634745539ff724cd7cc0688e",
+      "phrase": "Se você está atravessando o inferno, continue.",
+      "author": "Winston Churchill",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:05.059Z",
+      "updatedAt": "2022-10-12T22:53:05.059Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "634745539ff724cd7cc06890",
+      "phrase": "Se você quer alcançar a grandeza, pare de pedir permissão.",
+      "author": "Anonymous",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:05.059Z",
+      "updatedAt": "2022-10-12T22:53:05.059Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "634745539ff724cd7cc06892",
+      "phrase": "Apenas quando a lagarta pensava que o mundo estava acabando, ele se transformou em uma borboleta.",
+      "author": "Proverb",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:05.059Z",
+      "updatedAt": "2022-10-12T22:53:05.059Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "634745539ff724cd7cc06894",
+      "phrase": "A razão pela qual a maioria das pessoas nunca alcança seus objetivos é que eles não os definem, nem os consideram seriamente como críveis ou viáveis. Os vencedores podem dizer para onde estão indo, o que planejam fazer no caminho e quem compartilhará a aventura com eles.",
+      "author": "Denis Watiley",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:05.059Z",
+      "updatedAt": "2022-10-12T22:53:05.059Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "634745539ff724cd7cc06896",
+      "phrase": "A distância entre a insanidade e a genialidade é medida apenas pelo sucesso.",
+      "author": "Bruce Feirstein",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:05.059Z",
+      "updatedAt": "2022-10-12T22:53:05.059Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "634745539ff724cd7cc06898",
+      "phrase": "O ponto de partida de toda conquista é o desejo.",
+      "author": "Napolean Hill",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:05.059Z",
+      "updatedAt": "2022-10-12T22:53:05.059Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "634745539ff724cd7cc0689a",
+      "phrase": "A maioria das coisas importantes no mundo foi realizada por pessoas que continuaram tentando quando parecia não haver ajuda.",
+      "author": "Dale Carnegie",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:05.059Z",
+      "updatedAt": "2022-10-12T22:53:05.059Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "634745539ff724cd7cc0689c",
+      "phrase": "A falha é o tempero que dá ao sucesso o seu .",
+      "author": "Truman Capote",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:05.059Z",
+      "updatedAt": "2022-10-12T22:53:05.059Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "634745539ff724cd7cc0689e",
+      "phrase": "O seu problema não é o problema. A sua reação é o problema.",
+      "author": "Anonymous",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:05.059Z",
+      "updatedAt": "2022-10-12T22:53:05.059Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "634745539ff724cd7cc068a0",
+      "phrase": "Todo progresso ocorre fora da zona de conforto.",
+      "author": "Michael John Bobak",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:05.059Z",
+      "updatedAt": "2022-10-12T22:53:05.059Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "634745539ff724cd7cc068a2",
+      "phrase": "Se você quiser fazer uma mudança permanente, pare de se concentrar no tamanho dos seus problemas e comece a focar no seu tamanho!",
+      "author": "T. Harv Eker",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:05.059Z",
+      "updatedAt": "2022-10-12T22:53:05.059Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "634745539ff724cd7cc068a4",
+      "phrase": "Desenvolver o sucesso a partir de suas falhas. O desânimo e fracasso são dois dos degraus mais seguro para o sucesso.",
+      "author": "Dale Carnegie",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:05.059Z",
+      "updatedAt": "2022-10-12T22:53:05.059Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "634745539ff724cd7cc068a6",
+      "phrase": "O guerreiro de sucesso é um homem médio, mas com um foco apurado como um raio laser.",
+      "author": "Bruce Lee",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:05.059Z",
+      "updatedAt": "2022-10-12T22:53:05.059Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "634745539ff724cd7cc068a8",
+      "phrase": "A melhor razão para começar uma organização é fazer sentido; para criar um produto ou serviço para tornar o mundo um lugar melhor.",
+      "author": "Guy Kawasaki",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:05.059Z",
+      "updatedAt": "2022-10-12T22:53:05.059Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "634745539ff724cd7cc068aa",
+      "phrase": "Inovação distingue um líder de um seguidor.",
+      "author": "Steve Jobs",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:05.059Z",
+      "updatedAt": "2022-10-12T22:53:05.059Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "634745549ff724cd7cc068ac",
+      "phrase": "Eu descobri que quanto mais eu trabalho, mais sorte eu pareço ter",
+      "author": "Thomas Jefferson",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:05.059Z",
+      "updatedAt": "2022-10-12T22:53:05.059Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "634745549ff724cd7cc068ae",
+      "phrase": "Sempre que você vê uma pessoa de sucesso, você só vê as glórias públicas, nunca os sacrifícios privados para alcançá-los..",
+      "author": "Vaibhav Shah",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:05.059Z",
+      "updatedAt": "2022-10-12T22:53:05.059Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "634745549ff724cd7cc068b0",
+      "phrase": "Nós nos tornamos o que pensamos a maior parte do tempo, e esse é o segredo mais estranho.",
+      "author": "Earl Nightingale",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:05.059Z",
+      "updatedAt": "2022-10-12T22:53:05.059Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "634745549ff724cd7cc068b2",
+      "phrase": "A persistência é o caminho do êxito.",
+      "author": "Charles Chaplin",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:05.059Z",
+      "updatedAt": "2022-10-12T22:53:05.059Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "634745549ff724cd7cc068b4",
+      "phrase": "O sucesso nasce do querer, da determinação e persistência em se chegar a um objetivo. Mesmo não atingindo o alvo, quem busca e vence obstáculos, no mínimo fará coisas admiráveis.",
+      "author": "José de Alencar",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:05.059Z",
+      "updatedAt": "2022-10-12T22:53:05.059Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "634745549ff724cd7cc068b6",
+      "phrase": "Lute. Acredite. Conquiste. Perca. Deseje. Espere. Alcance. Invada. Caia. Seja tudo o quiser ser, mas acima de tudo, seja você sempre.",
+      "author": "tumblr",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:05.059Z",
+      "updatedAt": "2022-10-12T22:53:05.059Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "634745549ff724cd7cc068b8",
+      "phrase": "Só existe um êxito: a capacidade de levar a vida que se quer.",
+      "author": "Cristopher Morley",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:05.059Z",
+      "updatedAt": "2022-10-12T22:53:05.059Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "63474560d2ddeecf8abfbfb7",
+      "phrase": "A vitalidade é demonstrada não apenas pela persistência, mas pela capacidade de começar de novo.",
+      "author": "F. Scott Fitzgerald",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:18.723Z",
+      "updatedAt": "2022-10-12T22:53:18.723Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "63474560d2ddeecf8abfbfb9",
+      "phrase": "A coragem não é ausência do medo; é a persistência apesar do medo.",
+      "author": "Desconhecido",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:18.723Z",
+      "updatedAt": "2022-10-12T22:53:18.723Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "63474560d2ddeecf8abfbfbb",
+      "phrase": "O homem não teria alcançado o possível se, repetidas vezes, não tivesse tentado o impossível.",
+      "author": "Max Weber",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:18.723Z",
+      "updatedAt": "2022-10-12T22:53:18.723Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "63474560d2ddeecf8abfbfbd",
+      "phrase": "Só se pode alcançar um grande êxito quando nos mantemos fiéis a nós mesmos.",
+      "author": "Friedrich Nietzsche",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:18.723Z",
+      "updatedAt": "2022-10-12T22:53:18.723Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "63474560d2ddeecf8abfbfbf",
+      "phrase": "Todo mundo é capaz de sentir os sofrimentos de um amigo. Ver com agrado os seus êxitos exige uma natureza muito delicada.",
+      "author": "Oscar Wilde",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:18.723Z",
+      "updatedAt": "2022-10-12T22:53:18.723Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "63474560d2ddeecf8abfbfc1",
+      "phrase": "Lute com determinação, abrace a vida com paixão, perca com classe e vença com ousadia, porque o mundo pertence a quem se atreve e a vida é muito para ser insignificante.",
+      "author": "Augusto Branco",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:18.723Z",
+      "updatedAt": "2022-10-12T22:53:18.723Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "63474560d2ddeecf8abfbfc3",
+      "phrase": "Creia em si, mas não duvide sempre dos outros.",
+      "author": "Machado de Assis",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:18.723Z",
+      "updatedAt": "2022-10-12T22:53:18.723Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "63474560d2ddeecf8abfbfc5",
+      "phrase": "Dois homens não podem passar meia hora juntos sem que um conquiste uma evidente superioridade em relação ao outro.",
+      "author": "Samuel Johnson",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:18.723Z",
+      "updatedAt": "2022-10-12T22:53:18.723Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "63474560d2ddeecf8abfbfc7",
+      "phrase": "As únicas grandes companhias que conseguirão ter êxito são aquelas que consideram os seus produtos obsoletos antes que os outros o façam.",
+      "author": "Bill Gates",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:18.723Z",
+      "updatedAt": "2022-10-12T22:53:18.723Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "63474560d2ddeecf8abfbfc9",
+      "phrase": "Talento é dom, é graça. E sucesso nada tem haver com sorte, mas com determinação e trabalho.",
+      "author": "Augusto Branco",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:18.723Z",
+      "updatedAt": "2022-10-12T22:53:18.723Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "63474560d2ddeecf8abfbfcb",
+      "phrase": "Não deixe que as pessoas te façam desistir daquilo que você mais quer na vida. Acredite. Lute. Conquiste. E acima de tudo, seja feliz!",
+      "author": "Desconhecido",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:18.723Z",
+      "updatedAt": "2022-10-12T22:53:18.723Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "63474560d2ddeecf8abfbfcd",
+      "phrase": "Para ter um negócio de sucesso, alguém, algum dia, teve que tomar uma atitude de coragem.",
+      "author": "Peter Drucker",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:18.723Z",
+      "updatedAt": "2022-10-12T22:53:18.723Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "63474560d2ddeecf8abfbfcf",
+      "phrase": "Nenhum mentiroso tem uma memória suficientemente boa para ser um mentiroso de êxito.",
+      "author": "Abraham Lincoln",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:18.723Z",
+      "updatedAt": "2022-10-12T22:53:18.723Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "63474560d2ddeecf8abfbfd1",
+      "phrase": "Estar decidido, acima de qualquer coisa, é o segredo do êxito.",
+      "author": "Henry Ford",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:18.723Z",
+      "updatedAt": "2022-10-12T22:53:18.723Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "63474560d2ddeecf8abfbfd3",
+      "phrase": "Para obter êxito no mundo temos de parecer loucos mas sermos espertos.",
+      "author": "Barão de Montesquieu",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:18.723Z",
+      "updatedAt": "2022-10-12T22:53:18.723Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "63474560d2ddeecf8abfbfd5",
+      "phrase": "A disciplina é a mãe do êxito.",
+      "author": "Ésquilo",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:18.723Z",
+      "updatedAt": "2022-10-12T22:53:18.723Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "63474560d2ddeecf8abfbfd7",
+      "phrase": "O segredo do êxito na vida de um homem está em preparar-se para aproveitar a ocasião, quando ela se apresenta.",
+      "author": "Benjamin Disraeli",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:18.723Z",
+      "updatedAt": "2022-10-12T22:53:18.723Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "63474560d2ddeecf8abfbfd9",
+      "phrase": "A disciplina é a alma de um exército; torna grandes os pequenos contingentes, proporciona êxito aos fracos, e estima todos.",
+      "author": "George Washington",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:18.723Z",
+      "updatedAt": "2022-10-12T22:53:18.723Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "63474560d2ddeecf8abfbfdb",
+      "phrase": "O êxito começa no exato momento em que o homem decide o que quer e começa a trabalhar para consegui-lo.",
+      "author": "Roberto Flávio C. Silva",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:18.723Z",
+      "updatedAt": "2022-10-12T22:53:18.723Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "63474560d2ddeecf8abfbfdd",
+      "phrase": "A raiz do mal reside no fato de se insistir demasiadamente que no êxito da competição está a principal fonte de felicidade.",
+      "author": "Bertrand Russell",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:18.723Z",
+      "updatedAt": "2022-10-12T22:53:18.723Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "63474560d2ddeecf8abfbfdf",
+      "phrase": "O êxito parece doce a quem não o alcança.",
+      "author": "Emily Dickinson",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:18.723Z",
+      "updatedAt": "2022-10-12T22:53:18.723Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "63474560d2ddeecf8abfbfe1",
+      "phrase": "A persistência realiza o impossível.",
+      "author": "Provérbio Chinês",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:18.723Z",
+      "updatedAt": "2022-10-12T22:53:18.723Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "63474560d2ddeecf8abfbfe3",
+      "phrase": "Persistência é a irmã gêmea da excelência. Uma é a mãe da qualidade, a outra é a mãe do tempo.",
+      "author": "Marabel Morgan",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:18.723Z",
+      "updatedAt": "2022-10-12T22:53:18.723Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "63474560d2ddeecf8abfbfe5",
+      "phrase": "Suba o primeiro degrau com fé. Não é necessário que você veja toda a escada. Apenas dê o primeiro passo.",
+      "author": "Martin Luther King",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:18.723Z",
+      "updatedAt": "2022-10-12T22:53:18.723Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "63474560d2ddeecf8abfbfe7",
+      "phrase": "Eu escolho um homem que não duvide de minha coragem, que não me acredite inocente, que tenha a coragem de me tratar como uma mulher.",
+      "author": "Anaïs Nin",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:18.723Z",
+      "updatedAt": "2022-10-12T22:53:18.723Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "63474560d2ddeecf8abfbfe9",
+      "phrase": "As pessoas não carecem de força, carecem de determinação.",
+      "author": "Victor Hugo",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:18.723Z",
+      "updatedAt": "2022-10-12T22:53:18.723Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "63474560d2ddeecf8abfbfeb",
+      "phrase": "A verdadeira esperança é uma qualidade, uma determinação heróica da alma. E a mais elevada forma de esperança é o desespero superado.",
+      "author": "Georges Bernanos",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:18.723Z",
+      "updatedAt": "2022-10-12T22:53:18.723Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "63474560d2ddeecf8abfbfed",
+      "phrase": "Da amizade entre mulheres Dizem-se amigas... Beijam-se... Mas qual! Haverá quem nisso creia? Salvo se uma das duas, por sinal, For muito velha, ou muito feia...",
+      "author": "Mario Quintana",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:18.723Z",
+      "updatedAt": "2022-10-12T22:53:18.723Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "63474560d2ddeecf8abfbfef",
+      "phrase": "Conserve os olhos fixos num ideal sublime, e lute sempre pelo que deseja, pois só os fracos desistem e só quem luta é digno de vida.",
+      "author": "Desconhecido",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:18.723Z",
+      "updatedAt": "2022-10-12T22:53:18.723Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "63474560d2ddeecf8abfbff1",
+      "phrase": "Tudo deveria se tornar o mais simples possível, mas não simplificado.",
+      "author": "Albert Einstein",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:18.723Z",
+      "updatedAt": "2022-10-12T22:53:18.723Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "63474560d2ddeecf8abfbff3",
+      "phrase": "Comece fazendo o que é necessário, depois o que é possível, e de repente você estará fazendo o impossível.",
+      "author": "São Francisco de Assis",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:18.723Z",
+      "updatedAt": "2022-10-12T22:53:18.723Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "63474560d2ddeecf8abfbff5",
+      "phrase": "O erro acontece de vários modos, enquanto ser correto é possível apenas de um modo.",
+      "author": "Aristóteles",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:18.723Z",
+      "updatedAt": "2022-10-12T22:53:18.723Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "63474560d2ddeecf8abfbff7",
+      "phrase": "Não é possível ser bom pela metade.",
+      "author": "Léon Tolstoi",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:18.723Z",
+      "updatedAt": "2022-10-12T22:53:18.723Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "63474560d2ddeecf8abfbff9",
+      "phrase": "O milagre não prova o impossível; serve, apenas, como confirmação do que é possível.",
+      "author": "Textos Judaicos",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:18.723Z",
+      "updatedAt": "2022-10-12T22:53:18.723Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "63474560d2ddeecf8abfbffb",
+      "phrase": "O êxito da vida não se mede pelo caminho que você conquistou, mas sim pelas dificuldades que superou no caminho.",
+      "author": "Abraham Lincoln",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:18.723Z",
+      "updatedAt": "2022-10-12T22:53:18.723Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "63474560d2ddeecf8abfbffd",
+      "phrase": "A impaciência é um grande obstáculo para o bom êxito.",
+      "author": "Napoleão Bonaparte",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:18.723Z",
+      "updatedAt": "2022-10-12T22:53:18.723Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "63474560d2ddeecf8abfbfff",
+      "phrase": "Não procure ser um homem com êxito, e sim um homem com valores.",
+      "author": "Albert Einstein",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:18.723Z",
+      "updatedAt": "2022-10-12T22:53:18.723Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "63474560d2ddeecf8abfc001",
+      "phrase": "O êxito é fácil de obter. O difícil é merecê-lo.",
+      "author": "Albert Camus",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:18.723Z",
+      "updatedAt": "2022-10-12T22:53:18.723Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "63474560d2ddeecf8abfc003",
+      "phrase": "O êxito na vida não significa apenas ser bem sucedido, mas também sobrepor-se aos fracassos.",
+      "author": "Maxwell Maltz",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:18.723Z",
+      "updatedAt": "2022-10-12T22:53:18.723Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "63474561d2ddeecf8abfc005",
+      "phrase": "Tudo o que um sonho precisa para ser realizado é alguém que acredite que ele possa ser realizado.",
+      "author": "Roberto Shinyashiki",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:18.723Z",
+      "updatedAt": "2022-10-12T22:53:18.723Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "63474561d2ddeecf8abfc007",
+      "phrase": "A nossa maior glória não reside no fato de nunca cairmos, mas sim em levantarmo-nos sempre depois de cada queda.",
+      "author": "Oliver Goldsmith",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:18.723Z",
+      "updatedAt": "2022-10-12T22:53:18.723Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "63474561d2ddeecf8abfc009",
+      "phrase": "Transportai um punhado de terra todos os dias e fareis uma montanha.",
+      "author": "Confúcio",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:18.723Z",
+      "updatedAt": "2022-10-12T22:53:18.723Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "63474561d2ddeecf8abfc00b",
+      "phrase": "Seja como os pássaros que, ao pousarem um instante sobre ramos muito leves, sentem-nos ceder, mas cantam! Eles sabem que possuem asas.",
+      "author": "Victor Hugo",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:18.723Z",
+      "updatedAt": "2022-10-12T22:53:18.723Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "63474561d2ddeecf8abfc00d",
+      "phrase": "A força não provém da capacidade física. Provém de uma vontade indomável.",
+      "author": "Mahatma Gandhi",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:18.723Z",
+      "updatedAt": "2022-10-12T22:53:18.723Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "63474561d2ddeecf8abfc00f",
+      "phrase": "O número dos que nos invejam confirma as nossas capacidades.",
+      "author": "Oscar Wilde",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:18.723Z",
+      "updatedAt": "2022-10-12T22:53:18.723Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "63474561d2ddeecf8abfc011",
+      "phrase": "Nas pessoas de capacidade limitada, a modéstia não passa de mera honestidade, mas em quem possui grande talento, é hipocrisia.",
+      "author": "Arthur Schopenhauer",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:18.723Z",
+      "updatedAt": "2022-10-12T22:53:18.723Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "63474561d2ddeecf8abfc013",
+      "phrase": "Quem sabe concentrar-se numa coisa e insistir nela como único objetivo, obtém a capacidade de fazer qualquer coisa.",
+      "author": "Mahatma Gandhi",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:18.723Z",
+      "updatedAt": "2022-10-12T22:53:18.723Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "63474561d2ddeecf8abfc015",
+      "phrase": "É capaz quem pensa que é capaz.",
+      "author": "Buda",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:18.723Z",
+      "updatedAt": "2022-10-12T22:53:18.723Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "63474561d2ddeecf8abfc017",
+      "phrase": "O ser capaz mora perto da necessidade.",
+      "author": "Pitágoras",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:18.723Z",
+      "updatedAt": "2022-10-12T22:53:18.723Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "63474561d2ddeecf8abfc019",
+      "phrase": "LEGÍTIMA APROPRIAÇÃO Copio e assino essa frase encontrada no velho Schopenhauer: \"A soma de barulho que uma pessoa pode suportar está na razão inversa de sua capacidade mental\".",
+      "author": "Mario Quintana",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:18.723Z",
+      "updatedAt": "2022-10-12T22:53:18.723Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "63474568a16a139154f75af0",
+      "phrase": "A capacidade pouco vale sem oportunidade.",
+      "author": "Napoleão Bonaparte",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:27.693Z",
+      "updatedAt": "2022-10-12T22:53:27.693Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "63474568a16a139154f75af2",
+      "phrase": "Acredite em si próprio e chegará um dia em que os outros não terão outra escolha senão acreditar com você.",
+      "author": "Cynthia Kersey",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:27.693Z",
+      "updatedAt": "2022-10-12T22:53:27.693Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "63474568a16a139154f75af4",
+      "phrase": "Se a sua vida for a melhor coisa que já te aconteceu, acredite, você tem mais sorte do que pode imaginar.",
+      "author": "Daniel Godri",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:27.693Z",
+      "updatedAt": "2022-10-12T22:53:27.693Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "63474568a16a139154f75af6",
+      "phrase": "Quer você acredite que consiga fazer uma coisa ou não, você está certo.",
+      "author": "Henry Ford",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:27.693Z",
+      "updatedAt": "2022-10-12T22:53:27.693Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "63474568a16a139154f75af8",
+      "phrase": "Acredite em si. Engate a mente na sua boa estrela e reconheça que a sua luz interior o conduzirá sempre para cima e para frente.",
+      "author": "Desconhecido",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:27.693Z",
+      "updatedAt": "2022-10-12T22:53:27.693Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "63474568a16a139154f75afa",
+      "phrase": "Ninguém é assim tão velho que não acredite que poderá viver por mais um ano.",
+      "author": "Cícero",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:27.693Z",
+      "updatedAt": "2022-10-12T22:53:27.693Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "63474568a16a139154f75afc",
+      "phrase": "Jamais desista das pessoas que ama. Jamais desista de ser feliz. Lute sempre pelos seus sonhos. Seja profundamente apaixonado pela vida. Pois a vida é um espetáculo imperdível.",
+      "author": "Augusto Cury",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:27.693Z",
+      "updatedAt": "2022-10-12T22:53:27.693Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "63474568a16a139154f75afe",
+      "phrase": "Deus, ao criar o homem, superestimou a Sua capacidade.",
+      "author": "Oscar Wilde",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:27.693Z",
+      "updatedAt": "2022-10-12T22:53:27.693Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "63474568a16a139154f75b00",
+      "phrase": "Inteligência é a capacidade de se adaptar à mudança.",
+      "author": "Stephen Hawking",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:27.693Z",
+      "updatedAt": "2022-10-12T22:53:27.693Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "63474568a16a139154f75b02",
+      "phrase": "Maravilhas nunca faltaram ao mundo; o que sempre falta é a capacidade de senti-las e admirá-las.",
+      "author": "Mario Quintana",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:27.693Z",
+      "updatedAt": "2022-10-12T22:53:27.693Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "63474568a16a139154f75b04",
+      "phrase": "Capacidade de saber cada vez mais sobre cada vez menos, até saber tudo sobre nada.",
+      "author": "Millôr Fernandes",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:27.693Z",
+      "updatedAt": "2022-10-12T22:53:27.693Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "63474568a16a139154f75b06",
+      "phrase": "A liderança é a capacidade de conseguir que as pessoas façam o que não querem fazer e gostem de o fazer.",
+      "author": "Harry Truman",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:27.693Z",
+      "updatedAt": "2022-10-12T22:53:27.693Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "63474568a16a139154f75b08",
+      "phrase": "O amor é a arte de criar algo com a ajuda da capacidade do outro.",
+      "author": "Bertolt Brecht",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:27.693Z",
+      "updatedAt": "2022-10-12T22:53:27.693Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "63474568a16a139154f75b0a",
+      "phrase": "Tato é a capacidade de se descrever os outros tal como eles se julgam.",
+      "author": "Abraham Lincoln",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:27.693Z",
+      "updatedAt": "2022-10-12T22:53:27.693Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "63474568a16a139154f75b0c",
+      "phrase": "A sabedoria dos homens é proporcional não à sua experiência mas à sua capacidade de adquirir experiência.",
+      "author": "George Bernard Shaw",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:27.693Z",
+      "updatedAt": "2022-10-12T22:53:27.693Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "63474568a16a139154f75b0e",
+      "phrase": "Os grandes homens estão muitas vezes solitários. Mas essa solidão é parte da sua capacidade de criar. O caráter, assim como a fotografia, desenvolve-se no escuro.",
+      "author": "Youssuf Karsh",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:27.693Z",
+      "updatedAt": "2022-10-12T22:53:27.693Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "63474568a16a139154f75b10",
+      "phrase": "Nenhuma paixão pode, como o medo, tão efectivamente roubar o espírito da capacidade de agir e pensar.",
+      "author": "Edmund Burke",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:27.693Z",
+      "updatedAt": "2022-10-12T22:53:27.693Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "63474568a16a139154f75b12",
+      "phrase": "Pensamento duplo indica a capacidade de ter na mente, ao mesmo tempo, duas opiniões contraditórias e aceitar ambas.",
+      "author": "George Orwell",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:27.693Z",
+      "updatedAt": "2022-10-12T22:53:27.693Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "63474568a16a139154f75b14",
+      "phrase": "A marca de uma inteligência de primeira ordem é a capacidade de ter duas ideias opostas presentes no espírito ao mesmo tempo e nem por isso deixar de funcionar.",
+      "author": "F. Scott Fitzgerald",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:27.693Z",
+      "updatedAt": "2022-10-12T22:53:27.693Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "63474568a16a139154f75b16",
+      "phrase": "[Sobre o Xadrez] Jogo chinês que aumenta a capacidade de jogar xadrez.",
+      "author": "Millôr Fernandes",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:27.693Z",
+      "updatedAt": "2022-10-12T22:53:27.693Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "63474569a16a139154f75b18",
+      "phrase": "Usa a capacidade que tens. A floresta ficaria mais silenciosa se só o melhor pássaro cantasse.",
+      "author": "Henry Van Dyke",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:27.693Z",
+      "updatedAt": "2022-10-12T22:53:27.693Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "63474569a16a139154f75b1a",
+      "phrase": "Querer vencer significa já ter percorrido metade do caminho.",
+      "author": "Paderewsky",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:27.693Z",
+      "updatedAt": "2022-10-12T22:53:27.693Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "63474569a16a139154f75b1c",
+      "phrase": "Não somos sempre o que queremos, mas o que as circunstâncias nos permitem ser.",
+      "author": "Marquês de Maricá",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:27.693Z",
+      "updatedAt": "2022-10-12T22:53:27.693Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "63474569a16a139154f75b1e",
+      "phrase": "Felicidade não é ter o que você quer, é querer o que você tem. (Livro: Quem mexeu no meu queijo?)",
+      "author": "Spencer Johnson",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:27.693Z",
+      "updatedAt": "2022-10-12T22:53:27.693Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "63474569a16a139154f75b20",
+      "phrase": "A única forma de chegar ao impossível é acreditar que é possível.",
+      "author": "Alice no País das Maravilhas",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:27.693Z",
+      "updatedAt": "2022-10-12T22:53:27.693Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "63474569a16a139154f75b22",
+      "phrase": "Não se pode ensinar nada a um homem; só é possivel ajudá-lo a encontrar a coisa dentro de si.",
+      "author": "Galileu Galilei",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:27.693Z",
+      "updatedAt": "2022-10-12T22:53:27.693Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "63474569a16a139154f75b24",
+      "phrase": "Não é possível convencer um crente de coisa alguma, pois suas crenças não se baseiam em evidências; baseiam-se numa profunda necessidade de acreditar.",
+      "author": "Carl Sagan",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:27.693Z",
+      "updatedAt": "2022-10-12T22:53:27.693Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "63474569a16a139154f75b26",
+      "phrase": "Só é possível ensinar uma criança a amar, amando-a.",
+      "author": "Johann Goethe",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:27.693Z",
+      "updatedAt": "2022-10-12T22:53:27.693Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "63474569a16a139154f75b28",
+      "phrase": "Não se pode acreditar que é possível ser feliz procurando a infelicidade alheia.",
+      "author": "Sêneca",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:27.693Z",
+      "updatedAt": "2022-10-12T22:53:27.693Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "63474569a16a139154f75b2a",
+      "phrase": "Por sabedoria entendo a arte de tornar a vida mais agradável e feliz possível.",
+      "author": "Arthur Schopenhauer",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:27.693Z",
+      "updatedAt": "2022-10-12T22:53:27.693Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "63474569a16a139154f75b2c",
+      "phrase": "É possível amar e não ser feliz, é possível ser feliz e não amar, mas amar e simultaneamente ser feliz, isso seria milagre.",
+      "author": "Honoré de Balzac",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:27.693Z",
+      "updatedAt": "2022-10-12T22:53:27.693Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "63474569a16a139154f75b2e",
+      "phrase": "O mais belo estado da vida é a dependência livre e voluntária: e como seria ela possível sem amor?",
+      "author": "Johann Goethe",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:27.693Z",
+      "updatedAt": "2022-10-12T22:53:27.693Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "63474569a16a139154f75b30",
+      "phrase": "A um homem bom não é possível que ocorra nenhum mal, nem em vida nem em morte.",
+      "author": "Sócrates",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:27.693Z",
+      "updatedAt": "2022-10-12T22:53:27.693Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "63474569a16a139154f75b32",
+      "phrase": "Como se fosse possível matar o tempo sem ferir a eternidade.",
+      "author": "Henry David Thoreau",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:27.693Z",
+      "updatedAt": "2022-10-12T22:53:27.693Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "63474569a16a139154f75b34",
+      "phrase": "O homem que empenha todo o seu trabalho e imaginação em oferecer por um dólar o mais possível, em vez de menos, está condenado ao sucesso.",
+      "author": "Henry Ford",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:27.693Z",
+      "updatedAt": "2022-10-12T22:53:27.693Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "63474569a16a139154f75b36",
+      "phrase": "Os outros são realmente terríveis. A única sociedade possível é a de nós mesmos.",
+      "author": "Oscar Wilde",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:27.693Z",
+      "updatedAt": "2022-10-12T22:53:27.693Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "63474569a16a139154f75b38",
+      "phrase": "Não é possível chorar e pensar ao mesmo tempo, pois cada pensamento absorve uma lágrima.",
+      "author": "Jules Renard",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:27.693Z",
+      "updatedAt": "2022-10-12T22:53:27.693Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "63474569a16a139154f75b3a",
+      "phrase": "É inútil dizer \"estamos a fazer o possível\". Precisamos de fazer o que é necessário.",
+      "author": "Winston Churchill",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:27.693Z",
+      "updatedAt": "2022-10-12T22:53:27.693Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "63474569a16a139154f75b3c",
+      "phrase": "Não é a linguagem de programação que define o programador, mas sim sua lógica.",
+      "author": "David Ribeiro Guilherme",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:27.693Z",
+      "updatedAt": "2022-10-12T22:53:27.693Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "63474569a16a139154f75b3e",
+      "phrase": "Se você traçar metas absurdamente altas e falhar, seu fracasso será muito melhor que o sucesso de todos.",
+      "author": "James Cameron",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:27.693Z",
+      "updatedAt": "2022-10-12T22:53:27.693Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "63474569a16a139154f75b40",
+      "phrase": "Ter sucesso é falhar repetidamente, mas sem perder o entusiasmo!",
+      "author": "Winston Churchill",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:27.693Z",
+      "updatedAt": "2022-10-12T22:53:27.693Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "63474569a16a139154f75b42",
+      "phrase": "[Em arte] o impossível verosímil é preferível ao possível não acreditável.",
+      "author": "Aristóteles",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:27.693Z",
+      "updatedAt": "2022-10-12T22:53:27.693Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "63474569a16a139154f75b44",
+      "phrase": "Como é possível que, sendo as criancinhas tão inteligentes, a maioria das pessoas sejam tão tolas? A educação deve ter algo a ver com isso!",
+      "author": "Alexandre Dumas (filho)",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:27.693Z",
+      "updatedAt": "2022-10-12T22:53:27.693Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "63474569a16a139154f75b46",
+      "phrase": "Para que resulte o possível deve ser tentado o impossível.",
+      "author": "Hermann Hesse",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:27.693Z",
+      "updatedAt": "2022-10-12T22:53:27.693Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "63474569a16a139154f75b48",
+      "phrase": "É possível mudar nossas vidas e a atitude daqueles que nos cercam simplesmente mudando a nós mesmos.",
+      "author": "Rudolf Dreikurs",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:27.693Z",
+      "updatedAt": "2022-10-12T22:53:27.693Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "63474569a16a139154f75b4a",
+      "phrase": "Basta ajuizar bem para bem fazer, e julgar o melhor que nos seja possível para fazermos também o nosso melhor.",
+      "author": "René Descartes",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:27.693Z",
+      "updatedAt": "2022-10-12T22:53:27.693Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "63474569a16a139154f75b4c",
+      "phrase": "Se fosse possível somente deslizar para os braços da mulher e no entanto não cair nas suas mãos.",
+      "author": "Henry de Montherlant",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:27.693Z",
+      "updatedAt": "2022-10-12T22:53:27.693Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "63474569a16a139154f75b4e",
+      "phrase": "Sem passar da porta de casa, é possível saber o que acontece no mundo... Quanto mais longe se busca o saber, menos se aprende.",
+      "author": "Lao-Tsé",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:27.693Z",
+      "updatedAt": "2022-10-12T22:53:27.693Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "63474569a16a139154f75b50",
+      "phrase": "Como é possível esperar que a humanidade ouça conselhos, se nem sequer ouve as advertências.",
+      "author": "Jonathan Swift",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:27.693Z",
+      "updatedAt": "2022-10-12T22:53:27.693Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "63474569a16a139154f75b52",
+      "phrase": "Divide as dificuldades que tenhas de examinar em tantas partes quantas for possível, para uma melhor solução.",
+      "author": "René Descartes",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:27.693Z",
+      "updatedAt": "2022-10-12T22:53:27.693Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "63474572114b493320008488",
+      "phrase": "É-nos possível viver sozinhos, desde que seja à espera de alguém.",
+      "author": "Gilbert Cesbron",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:36.505Z",
+      "updatedAt": "2022-10-12T22:53:36.505Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "63474572114b49332000848a",
+      "phrase": "Pedir demasiado é a maneira mais segura de receber ainda menos do que é possível.",
+      "author": "Bertrand Russell",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:36.505Z",
+      "updatedAt": "2022-10-12T22:53:36.505Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "63474572114b49332000848c",
+      "phrase": "Com leis ruins e funcionários bons ainda é possível governar. Mas com funcionários ruins as melhores leis não servem para nada.",
+      "author": "Otto von Bismarck",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:36.505Z",
+      "updatedAt": "2022-10-12T22:53:36.505Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "63474572114b49332000848e",
+      "phrase": "Contra os ataques é possível nos defendermos: contra o elogio não se pode fazer nada.",
+      "author": "Sigmund Freud",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:36.505Z",
+      "updatedAt": "2022-10-12T22:53:36.505Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "63474572114b493320008490",
+      "phrase": "Visto que o fundamento da propriedade é a utilidade, onde não houver utilidade possível não pode existir propriedade.",
+      "author": "Jean Jacques Rousseau",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:36.505Z",
+      "updatedAt": "2022-10-12T22:53:36.505Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "63474572114b493320008492",
+      "phrase": "O que mais desespera, não é o impossível. Mas o possível não alcançado.",
+      "author": "Robert Mallet",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:36.505Z",
+      "updatedAt": "2022-10-12T22:53:36.505Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "63474572114b493320008494",
+      "phrase": "Terrível é que não é possível viver com as mulheres, nem sem elas.",
+      "author": "George [Lord] Byron",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:36.505Z",
+      "updatedAt": "2022-10-12T22:53:36.505Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "63474572114b493320008496",
+      "phrase": "A imaginação é a rainha do real e o possível é uma das províncias do real.",
+      "author": "Charles Baudelaire",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:36.505Z",
+      "updatedAt": "2022-10-12T22:53:36.505Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "63474572114b493320008498",
+      "phrase": "Penso que é indispensável fazer um grande mal momentâneo para que venha a ser possível um grande bem duradouro.",
+      "author": "Denis Diderot",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:36.505Z",
+      "updatedAt": "2022-10-12T22:53:36.505Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "63474572114b49332000849a",
+      "phrase": "Somente nas infelicidades é possível conhecer os verdadeiros amigos.",
+      "author": "Públio Siro",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:36.505Z",
+      "updatedAt": "2022-10-12T22:53:36.505Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "63474572114b49332000849c",
+      "phrase": "É possível ser jovem sem ter dinheiro, mas não se pode ser velho sem ele.",
+      "author": "Tennessee Williams",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:36.505Z",
+      "updatedAt": "2022-10-12T22:53:36.505Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "63474572114b49332000849e",
+      "phrase": "Ama-se a vitória difícil, porque a derrota lhe preenchia quase todo o espaço possível. E foi com o que restava que se venceu em todo ele.",
+      "author": "Vergílio Ferreira",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:36.505Z",
+      "updatedAt": "2022-10-12T22:53:36.505Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "63474572114b4933200084a0",
+      "phrase": "Sem o amor-próprio nenhuma vida é possível, nem sequer a mais leve decisão, só desespero e rigidez.",
+      "author": "Hugo Hofmannsthal",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:36.505Z",
+      "updatedAt": "2022-10-12T22:53:36.505Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "63474572114b4933200084a2",
+      "phrase": "É preciso escrever o mais possível como se falasse e não falar demais como se escrevesse.",
+      "author": "Charles Saint-Beuve",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:36.505Z",
+      "updatedAt": "2022-10-12T22:53:36.505Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "63474572114b4933200084a4",
+      "phrase": "Não sendo possível fazer-se com que aquilo que é justo seja forte, faz-se com que o que é forte seja justo.",
+      "author": "Blaise Pascal",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:36.505Z",
+      "updatedAt": "2022-10-12T22:53:36.505Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "63474572114b4933200084a6",
+      "phrase": "É possível guardar na mente um milhão de fatos e ainda assim ser totalmente sem educação.",
+      "author": "Alec Bourne",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:36.505Z",
+      "updatedAt": "2022-10-12T22:53:36.505Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "63474572114b4933200084a8",
+      "phrase": "Verifiquei que, aos homens, se devia agradecer o menos possível, porque o reconhecimento que lhes testemunhamos os convence, facilmente, de que estão a fazer de mais!",
+      "author": "Benjamin Constant",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:36.505Z",
+      "updatedAt": "2022-10-12T22:53:36.505Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "63474572114b4933200084aa",
+      "phrase": "Você tem que acordar cada manhã com determinação se você pretende ir para a cama com satisfação.",
+      "author": "George Lorimer",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:36.505Z",
+      "updatedAt": "2022-10-12T22:53:36.505Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "63474572114b4933200084ac",
+      "phrase": "Para conhecermos os amigos é necessário passar pelo sucesso e pela desgraça. No sucesso, verificamos a quantidade e, na desgraça, a qualidade.",
+      "author": "Confúcio",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:36.505Z",
+      "updatedAt": "2022-10-12T22:53:36.505Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "63474572114b4933200084ae",
+      "phrase": "Procure ser um homem de valor, em vez de ser um homem de sucesso.",
+      "author": "Albert Einstein",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:36.505Z",
+      "updatedAt": "2022-10-12T22:53:36.505Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "63474572114b4933200084b0",
+      "phrase": "Conhecer o homem - esta é a base de todo o sucesso.",
+      "author": "Charles Chaplin",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:36.505Z",
+      "updatedAt": "2022-10-12T22:53:36.505Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "63474572114b4933200084b2",
+      "phrase": "O sucesso é um professor perverso. Ele seduz as pessoas inteligentes e as faz pensar que jamais vão cair.",
+      "author": "Bill Gates",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:36.505Z",
+      "updatedAt": "2022-10-12T22:53:36.505Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "63474572114b4933200084b4",
+      "phrase": "Vamos agradecer aos idiotas. Não fosse por eles não faríamos tanto sucesso.",
+      "author": "Mark Twain",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:36.505Z",
+      "updatedAt": "2022-10-12T22:53:36.505Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "63474572114b4933200084b6",
+      "phrase": "O termômetro do sucesso é apenas a inveja dos descontentes.",
+      "author": "Salvador Dalí",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:36.505Z",
+      "updatedAt": "2022-10-12T22:53:36.505Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "63474572114b4933200084b8",
+      "phrase": "Em todas as coisas o sucesso depende de uma preparação prévia, e sem tal preparação o falhanço é certo.",
+      "author": "Confúcio",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:36.505Z",
+      "updatedAt": "2022-10-12T22:53:36.505Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "63474572114b4933200084ba",
+      "phrase": "O sucesso é uma consequência e não um objetivo.",
+      "author": "Gustave Flaubert",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:36.505Z",
+      "updatedAt": "2022-10-12T22:53:36.505Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "63474572114b4933200084bc",
+      "phrase": "Há poucos homens capazes de prestar homenagem ao sucesso de um amigo, sem qualquer inveja.",
+      "author": "Ésquilo",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:36.505Z",
+      "updatedAt": "2022-10-12T22:53:36.505Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "63474572114b4933200084be",
+      "phrase": "Para ter sucesso neste mundo não basta ser estúpido, é preciso também ter boas maneiras.",
+      "author": "Voltaire",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:36.505Z",
+      "updatedAt": "2022-10-12T22:53:36.505Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "63474572114b4933200084c0",
+      "phrase": "A moderação é uma coisa fatal (...). Nada tem mais sucesso do que o excesso.",
+      "author": "Oscar Wilde",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:36.505Z",
+      "updatedAt": "2022-10-12T22:53:36.505Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "63474572114b4933200084c2",
+      "phrase": "O segredo do sucesso é a constância do propósito.",
+      "author": "Benjamin Disraeli",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:36.505Z",
+      "updatedAt": "2022-10-12T22:53:36.505Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "63474572114b4933200084c4",
+      "phrase": "Uma paixão forte por qualquer objeto assegurará o sucesso, porque o desejo pelo objetivo mostrará os meios.",
+      "author": "William Hazlitt",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:36.505Z",
+      "updatedAt": "2022-10-12T22:53:36.505Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "63474572114b4933200084c6",
+      "phrase": "O sucesso torna as pessoas modestas, amigáveis e tolerantes; é o fracasso que as faz ásperas e ruins.",
+      "author": "W. Somerset Maugham",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:36.505Z",
+      "updatedAt": "2022-10-12T22:53:36.505Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "63474572114b4933200084c8",
+      "phrase": "Saber quando se deve esperar é o grande segredo do sucesso.",
+      "author": "Xavier Maistre",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:36.505Z",
+      "updatedAt": "2022-10-12T22:53:36.505Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "63474572114b4933200084ca",
+      "phrase": "Levei vinte anos para fazer sucesso da noite para o dia.",
+      "author": "Eddie Cantor",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:36.505Z",
+      "updatedAt": "2022-10-12T22:53:36.505Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "63474572114b4933200084cc",
+      "phrase": "Eu preferiria ser um fracasso em algo que amo do que um sucesso em algo que odeio.",
+      "author": "George Burns",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:36.505Z",
+      "updatedAt": "2022-10-12T22:53:36.505Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "63474572114b4933200084ce",
+      "phrase": "Tudo o que é preciso na vida é ignorância e confiança; depois, o sucesso está garantido.",
+      "author": "Mark Twain",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:36.505Z",
+      "updatedAt": "2022-10-12T22:53:36.505Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "63474572114b4933200084d0",
+      "phrase": "A confiança em si mesmo é o primeiro segredo do sucesso.",
+      "author": "Ralph Waldo Emerson",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:36.505Z",
+      "updatedAt": "2022-10-12T22:53:36.505Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "63474572114b4933200084d2",
+      "phrase": "O sucesso tem sido sempre um grande mentiroso.",
+      "author": "Friedrich Nietzsche",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:36.505Z",
+      "updatedAt": "2022-10-12T22:53:36.505Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "63474572114b4933200084d4",
+      "phrase": "Que sua colheita seja abundante e eterna e o sorriso da felicidade e do sucesso enfeite os seus lábios.",
+      "author": "Lauro Trevisan",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:36.505Z",
+      "updatedAt": "2022-10-12T22:53:36.505Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "63474572114b4933200084d6",
+      "phrase": "O segredo do sucesso é ofender o maior número de pessoas.",
+      "author": "George Bernard Shaw",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:36.505Z",
+      "updatedAt": "2022-10-12T22:53:36.505Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "63474573114b4933200084d8",
+      "phrase": "Os homens que se tornam arrogantes com o sucesso têm o mau hábito de odiarem aqueles a quem ofenderam.",
+      "author": "Sêneca",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:36.505Z",
+      "updatedAt": "2022-10-12T22:53:36.505Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "63474573114b4933200084da",
+      "phrase": "A chave do sucesso da Sony e para tudo nos negócios é...não seguir os outros.",
+      "author": "Masura Ibuki",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:36.505Z",
+      "updatedAt": "2022-10-12T22:53:36.505Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "63474573114b4933200084dc",
+      "phrase": "O sucesso é uma viagem, não um ponto de destino.",
+      "author": "Bem Sweetland",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:36.505Z",
+      "updatedAt": "2022-10-12T22:53:36.505Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "63474573114b4933200084de",
+      "phrase": "Quando sobes a montanha do sucesso não encontras um amigo.",
+      "author": "Mark Twain",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:36.505Z",
+      "updatedAt": "2022-10-12T22:53:36.505Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "63474573114b4933200084e0",
+      "phrase": "O sucesso e o amor preferem o corajoso.",
+      "author": "Ovídio",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:36.505Z",
+      "updatedAt": "2022-10-12T22:53:36.505Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "63474573114b4933200084e2",
+      "phrase": "Eu sei o preço do sucesso: dedicação, trabalho duro, e uma incessante devoção às coisas que você quer ver acontecer.",
+      "author": "Frank Lloyd Wright",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:36.505Z",
+      "updatedAt": "2022-10-12T22:53:36.505Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "63474573114b4933200084e4",
+      "phrase": "O fracasso e o sucesso são impostores. Ninguém fracassa tanto como imagina. Ninguém tem tanto sucesso como imagina.",
+      "author": "Rudyard Kipling",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:36.505Z",
+      "updatedAt": "2022-10-12T22:53:36.505Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "63474573114b4933200084e6",
+      "phrase": "Recompense o sucesso e o fracasso igualmente - puna a inatividade.",
+      "author": "David Kelley",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:36.505Z",
+      "updatedAt": "2022-10-12T22:53:36.505Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "63474573114b4933200084e8",
+      "phrase": "O maior orador do mundo é o sucesso.",
+      "author": "Napoleão Bonaparte",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:36.505Z",
+      "updatedAt": "2022-10-12T22:53:36.505Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "63474573114b4933200084ea",
+      "phrase": "Perseguir, sem cessar, uma meta: Este é o segredo do sucesso.",
+      "author": "Anna Pavlova",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:36.505Z",
+      "updatedAt": "2022-10-12T22:53:36.505Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "6347457c65295fc2161a1f5b",
+      "phrase": "Você nunca alcança o sucesso verdadeiro a menos que você goste do que está fazendo.",
+      "author": "Dale Carnegie",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:46.649Z",
+      "updatedAt": "2022-10-12T22:53:46.649Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "6347457c65295fc2161a1f5d",
+      "phrase": "O sucesso é construído de 99 por cento de fracasso.",
+      "author": "Soichiro Honda",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:46.649Z",
+      "updatedAt": "2022-10-12T22:53:46.649Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "6347457c65295fc2161a1f5f",
+      "phrase": "Sucesso é saber a diferença entre perseguir as pessoas e fazer com que as pessoas fiquem do seu lado.",
+      "author": "Desconhecido",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:46.649Z",
+      "updatedAt": "2022-10-12T22:53:46.649Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "6347457c65295fc2161a1f61",
+      "phrase": "Um dos segredos do sucesso é se recusar a deixar que reveses temporários nos derrotem.",
+      "author": "Mary Kay",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:46.649Z",
+      "updatedAt": "2022-10-12T22:53:46.649Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "6347457c65295fc2161a1f63",
+      "phrase": "O sucesso encoraja-os: eles podem porque pensam que podem.",
+      "author": "Virgílio",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:46.649Z",
+      "updatedAt": "2022-10-12T22:53:46.649Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "6347457c65295fc2161a1f65",
+      "phrase": "O único critério infalível de sabedoria para as mentes banais - sucesso.",
+      "author": "Edmund Burke",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:46.649Z",
+      "updatedAt": "2022-10-12T22:53:46.649Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "6347457c65295fc2161a1f67",
+      "phrase": "O sucesso é a soma de pequenos esforços - repetidos dia sim, e no outro dia também.",
+      "author": "Robert Collier",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:46.649Z",
+      "updatedAt": "2022-10-12T22:53:46.649Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "6347457c65295fc2161a1f69",
+      "phrase": "A disciplina é a parte mais importante do sucesso.",
+      "author": "Truman Capote",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:46.649Z",
+      "updatedAt": "2022-10-12T22:53:46.649Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "6347457c65295fc2161a1f6b",
+      "phrase": "Parecer o que se é, é um crime; parecer o que não se é, um sucesso.",
+      "author": "Madame Émile Girardin",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:46.649Z",
+      "updatedAt": "2022-10-12T22:53:46.649Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "6347457c65295fc2161a1f6d",
+      "phrase": "Os malvados que têm sucesso são insuportáveis.",
+      "author": "Ésquilo",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:46.649Z",
+      "updatedAt": "2022-10-12T22:53:46.649Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "6347457c65295fc2161a1f6f",
+      "phrase": "A disciplina é a mãe do sucesso.",
+      "author": "Ésquilo",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:46.649Z",
+      "updatedAt": "2022-10-12T22:53:46.649Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "6347457c65295fc2161a1f71",
+      "phrase": "A sorte existe. O que mais pode explicar o sucesso de nossos concorrentes?",
+      "author": "Gen Matejka",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:46.649Z",
+      "updatedAt": "2022-10-12T22:53:46.649Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "6347457c65295fc2161a1f73",
+      "phrase": "Uma auto-imagem forte e positiva é a melhor preparação possível para o  sucesso.",
+      "author": "Joyce Brothers",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:46.649Z",
+      "updatedAt": "2022-10-12T22:53:46.649Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "6347457c65295fc2161a1f75",
+      "phrase": "Coragem é a resistência ao medo, domínio do medo, e não a ausência do medo.",
+      "author": "Mark Twain",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:46.649Z",
+      "updatedAt": "2022-10-12T22:53:46.649Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "6347457c65295fc2161a1f77",
+      "phrase": "O amor é uma flor delicada, mas é preciso ter coragem de ir colhê-la à beira de um precipício.",
+      "author": "Stendhal",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:46.649Z",
+      "updatedAt": "2022-10-12T22:53:46.649Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "6347457c65295fc2161a1f79",
+      "phrase": "Ser profundamente amado por alguém nos dá força; amar alguém profundamente nos dá coragem.",
+      "author": "Lao-Tse",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:46.649Z",
+      "updatedAt": "2022-10-12T22:53:46.649Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "6347457c65295fc2161a1f7b",
+      "phrase": "A coragem é a primeira das qualidades humanas porque garante todas as outras.",
+      "author": "Aristóteles",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:46.649Z",
+      "updatedAt": "2022-10-12T22:53:46.649Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "6347457c65295fc2161a1f7d",
+      "phrase": "Saber o que é correto e não o fazer é falta de coragem.",
+      "author": "Confúcio",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:46.649Z",
+      "updatedAt": "2022-10-12T22:53:46.649Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "6347457c65295fc2161a1f7f",
+      "phrase": "Quem perde seus bens perde muito; quem perde um amigo perde mais; mas quem perde a coragem perde tudo.",
+      "author": "Miguel de Cervantes",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:46.649Z",
+      "updatedAt": "2022-10-12T22:53:46.649Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "6347457c65295fc2161a1f81",
+      "phrase": "Pois a coragem cresce com a ocasião.",
+      "author": "William Shakespeare",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:46.649Z",
+      "updatedAt": "2022-10-12T22:53:46.649Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "6347457d65295fc2161a1f83",
+      "phrase": "Os homens semeiam na terra o que colherão na vida espiritual: os frutos da sua coragem ou da sua fraqueza.",
+      "author": "Allan Kardec",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:46.649Z",
+      "updatedAt": "2022-10-12T22:53:46.649Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "6347457d65295fc2161a1f85",
+      "phrase": "Todos os homens têm medo. Quem não tem medo não é normal; isso nada tem a ver com a coragem.",
+      "author": "Jean-Paul Sartre",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:46.649Z",
+      "updatedAt": "2022-10-12T22:53:46.649Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "6347457d65295fc2161a1f87",
+      "phrase": "A vida se contrai e se expande proporcionalmente à coragem do indivíduo.",
+      "author": "Anaïs Nin",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:46.649Z",
+      "updatedAt": "2022-10-12T22:53:46.649Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "6347457d65295fc2161a1f89",
+      "phrase": "A verdadeira coragem está em fazermos sem testemunha o que seríamos capazes de fazer diante de todo mundo.",
+      "author": "François La Rochefoucauld",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:46.649Z",
+      "updatedAt": "2022-10-12T22:53:46.649Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "6347457d65295fc2161a1f8b",
+      "phrase": "Você ganha força, coragem e confiança através de cada experiência em que você realmente para e encara o medo de frente.",
+      "author": "Eleanor Roosevelt",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:46.649Z",
+      "updatedAt": "2022-10-12T22:53:46.649Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "6347457d65295fc2161a1f8d",
+      "phrase": "O amor é uma bela flor à beira de um precipício. É necessário ter muita coragem para a ir colher.",
+      "author": "Stendhal",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:46.649Z",
+      "updatedAt": "2022-10-12T22:53:46.649Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "6347457d65295fc2161a1f8f",
+      "phrase": "É preciso impor a si mesmo algumas metas para se ter a coragem de alcançá-las.",
+      "author": "Benito Mussolini",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:46.649Z",
+      "updatedAt": "2022-10-12T22:53:46.649Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "6347457d65295fc2161a1f91",
+      "phrase": "A maior prova de coragem é suportar as derrotas sem perder o ânimo.",
+      "author": "Robert Ingersoll",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:46.649Z",
+      "updatedAt": "2022-10-12T22:53:46.649Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "6347457d65295fc2161a1f93",
+      "phrase": "A coragem conduz às estrelas, e o medo à morte.",
+      "author": "Sêneca",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:46.649Z",
+      "updatedAt": "2022-10-12T22:53:46.649Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "6347457d65295fc2161a1f95",
+      "phrase": "A bravura provém do sangue, a coragem provém do pensamento.",
+      "author": "Napoleão Bonaparte",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:46.649Z",
+      "updatedAt": "2022-10-12T22:53:46.649Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "6347457d65295fc2161a1f97",
+      "phrase": "Aqueles que têm coragem para amar deveriam ter coragem para sofrer.",
+      "author": "Anthony Trollope",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:46.649Z",
+      "updatedAt": "2022-10-12T22:53:46.649Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "6347457d65295fc2161a1f99",
+      "phrase": "Frequentemente é necessário mais coragem para ousar fazer certo do que temer fazer errado.",
+      "author": "Abraham Lincoln",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:46.649Z",
+      "updatedAt": "2022-10-12T22:53:46.649Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "6347457d65295fc2161a1f9b",
+      "phrase": "Eu não tenho nenhuma coragem, mas procedo como se a tivesse, o que talvez venha dar ao mesmo.",
+      "author": "Gustave Flaubert",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:46.649Z",
+      "updatedAt": "2022-10-12T22:53:46.649Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "6347457d65295fc2161a1f9d",
+      "phrase": "Devemos construir diques de coragem para conter a correnteza do medo.",
+      "author": "Martin Luther King",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:46.649Z",
+      "updatedAt": "2022-10-12T22:53:46.649Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "6347457d65295fc2161a1f9f",
+      "phrase": "Coragem é manter a classe sob pressão.",
+      "author": "John Kennedy",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:46.649Z",
+      "updatedAt": "2022-10-12T22:53:46.649Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "6347457d65295fc2161a1fa1",
+      "phrase": "Nada inspira mais coragem ao medroso do que o medo alheio.",
+      "author": "Umberto Eco",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:46.649Z",
+      "updatedAt": "2022-10-12T22:53:46.649Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "6347457d65295fc2161a1fa3",
+      "phrase": "A coragem significa um forte desejo de viver, sob a forma de disposição para morrer.",
+      "author": "G. K. Chesterton",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:46.649Z",
+      "updatedAt": "2022-10-12T22:53:46.649Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "6347457d65295fc2161a1fa5",
+      "phrase": "Coragem... pequeno soldado do imenso exército. Os teus livros são as tuas armas, a tua classe é a tua esquadra, o campo de batalha é a terra inteira, e a vitória é a civilização humana.",
+      "author": "Edmondo Amicis",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:46.649Z",
+      "updatedAt": "2022-10-12T22:53:46.649Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "6347457d65295fc2161a1fa7",
+      "phrase": "Muitos talentos se perdem por falta de um pouco de coragem.",
+      "author": "Sydney Smith",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-10-12T22:53:46.649Z",
+      "updatedAt": "2022-10-12T22:53:46.649Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    },
+    {
+      "_id": "63aa16f7a23f1f1bfbf7b4c4",
+      "phrase": "A dor é inevitável, mas o sofrimento é opcional.",
+      "author": "@Drakkarys#0001",
+      "postedBy": "6545990906c17f50b37abb0a",
+      "postedAt": "2022-11-09T12:09:25.745Z",
+      "updatedAt": "2022-11-09T12:09:25.745Z",
+      "updatedBy": "6545990906c17f50b37abb0a",
+      "__v": 0
+    }
+  ]
+}
